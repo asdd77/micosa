@@ -1,65 +1,248 @@
-[21:38:28] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:38:28] [main/INFO]: Found new data pack file/bukkit, loading it automatically
-[21:38:28] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[21:38:29] [Worker-Main-1/INFO]: Loaded 7 recipes
-[21:38:31] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[21:38:31] [Server thread/INFO]: Loading properties
-[21:38:31] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[21:38:31] [Server thread/INFO]: Debug logging is disabled
-[21:38:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:38:31] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:38:31] [Server thread/INFO]: Default game type: SURVIVAL
-[21:38:31] [Server thread/INFO]: Generating keypair
-[21:38:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:38:31] [Server thread/INFO]: Using epoll channel type
-[21:38:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:38:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:38:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:38:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:38:31] [Server thread/INFO]: Preparing level "world"
-[21:38:36] [Server thread/WARN]: Unable to find spawn biome
-[21:38:38] [Server thread/WARN]: Unable to find spawn biome
-[21:38:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:38:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:38:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:38:39] [Server thread/INFO]: Time elapsed: 970 ms
-[21:38:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:38:40] [Server thread/INFO]: Time elapsed: 744 ms
-[21:38:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:38:40] [Server thread/INFO]: Time elapsed: 536 ms
-[21:38:40] [Server thread/INFO]: Running delayed init tasks
-[21:38:40] [Server thread/INFO]: Done (9.965s)! For help, type "help"
-[21:38:40] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[21:38:40] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
-[21:38:40] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
-[21:38:40] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
-[21:38:40] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[21:38:40] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
-[21:38:40] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
-[21:38:40] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
-[21:38:40] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
-[21:38:40] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[21:38:40] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.25
-[21:38:40] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[21:38:40] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
-[21:38:40] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
-[21:38:40] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[21:38:40] [Server thread/INFO]: Timings Reset
-[21:38:41] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[21:39:03] [Server thread/INFO]: [Server] sd
-[21:39:06] [Server thread/INFO]: Stopping the server
-[21:39:06] [Server thread/INFO]: Stopping server
-[21:39:06] [Server thread/INFO]: Saving players
-[21:39:06] [Server thread/INFO]: Saving worlds
-[21:39:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:39:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:39:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[21:39:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:39:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[21:39:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:39:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:39:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:39:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:39:19] [Server thread/INFO]: Flushing Chunk IO
-[21:39:19] [Server thread/INFO]: Closing Thread Pool
-[21:39:19] [Server thread/INFO]: Closing Server
+[22:23:14] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:23:15] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[22:23:15] [Worker-Main-1/INFO]: Loaded 7 recipes
+[22:23:17] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[22:23:17] [Server thread/INFO]: Loading properties
+[22:23:17] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[22:23:18] [Server thread/INFO]: Debug logging is disabled
+[22:23:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:23:18] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:23:18] [Server thread/INFO]: Default game type: SURVIVAL
+[22:23:18] [Server thread/INFO]: Generating keypair
+[22:23:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:23:18] [Server thread/INFO]: Using epoll channel type
+[22:23:19] [Server thread/ERROR]: Could not load 'plugins/ViaVersion-5.2.0.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: com/viaversion/viaversion/ViaVersionPlugin has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:157) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:414) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:322) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:393) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:269) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1074) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.UnsupportedClassVersionError: com/viaversion/viaversion/ViaVersionPlugin has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1022) ~[?:?]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:174) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:201) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:594) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:119) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:114) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:82) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:153) ~[patched_1.16.5.jar:git-Paper-794]
+	... 7 more
+[22:23:19] [Server thread/ERROR]: Could not load 'plugins/ViaBackwards-5.2.0.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [ViaVersion]. Please download and install these plugins to run 'ViaBackwards'.
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:393) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:269) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1074) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[22:23:19] [Server thread/ERROR]: Could not load 'plugins/Geyser-Spigot.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: org/geysermc/geyser/platform/spigot/GeyserSpigotPlugin has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:157) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:414) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:322) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:393) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:269) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1074) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.UnsupportedClassVersionError: org/geysermc/geyser/platform/spigot/GeyserSpigotPlugin has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1022) ~[?:?]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:174) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:201) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:594) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:119) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:114) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:82) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:153) ~[patched_1.16.5.jar:git-Paper-794]
+	... 7 more
+[22:23:19] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v7.4
+[22:23:19] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[22:23:19] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[22:23:20] [Server thread/INFO]: [floodgate] Took 806ms to boot Floodgate
+[22:23:20] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.5.0
+[22:23:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:23:20] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.0
+[22:23:20] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[22:23:21] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
+[22:23:21] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFloodgate skin listener registered[0;39m
+[22:23:22] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[22:23:22] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[22:23:22] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[22:23:22] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[22:23:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:23:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:23:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:23:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:23:22] [Server thread/INFO]: Preparing level "world"
+[22:23:22] [Server thread/ERROR]: Could not set generator for default world 'world': Plugin 'TerraformGenerator' does not exist
+[22:23:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:23:22] [Server thread/INFO]: Preparing spawn area: 0%
+[22:23:22] [Server thread/INFO]: Time elapsed: 454 ms
+[22:23:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:23:23] [Server thread/INFO]: Time elapsed: 481 ms
+[22:23:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:23:23] [Server thread/INFO]: Time elapsed: 268 ms
+[22:23:23] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[22:23:23] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[22:23:23] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[22:23:23] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[22:23:23] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[22:23:24] [Server thread/INFO]: Running delayed init tasks
+[22:23:24] [Server thread/INFO]: Done (6.648s)! For help, type "help"
+[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.25
+[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[22:23:24] [Server thread/INFO]: Timings Reset
+[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.0[0;39m
+[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mad418e4[0;39m
+[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[22:23:43] [User Authenticator #1/INFO]: UUID of player liljuz70 is 5973f352-51c7-35cb-ba62-17bd97e3e37c
+[22:23:43] [Server thread/INFO]: liljuz70 joined the game
+[22:23:43] [Server thread/INFO]: liljuz70[/127.185.87.55:42243] logged in with entity id 355 at ([world]106.74943086428551, 71.0, 25.032883372555993)
+[22:23:59] [Server thread/INFO]: [Server] hola lil
+[22:24:00] [User Authenticator #1/INFO]: UUID of player Leenxy is 3cd529c8-47b2-3831-9b83-4783b7504b53
+[22:24:00] [Server thread/INFO]: Leenxy joined the game
+[22:24:00] [Server thread/INFO]: Leenxy[/127.183.225.72:50633] logged in with entity id 551 at ([world]93.69999998807907, 62.0, 64.76762018702468)
+[22:24:09] [User Authenticator #1/INFO]: UUID of player Gianex is 8162c036-68e4-3c01-a79c-dd1007938f2b
+[22:24:09] [Server thread/INFO]: Gianex joined the game
+[22:24:09] [Server thread/INFO]: Gianex[/127.99.88.48:42893] logged in with entity id 608 at ([world]110.30000001192093, 61.0, 58.1688964444712)
+[22:24:12] [User Authenticator #1/INFO]: UUID of player xMega10_ is 1e83bc86-1c6c-31b5-b20b-48ae4f0a6189
+[22:24:12] [Server thread/INFO]: xMega10_ joined the game
+[22:24:12] [Server thread/INFO]: xMega10_[/127.222.183.28:33071] logged in with entity id 612 at ([world]65.0213097977628, 75.0, 66.36987441615761)
+[22:24:17] [User Authenticator #1/INFO]: UUID of player LeoG24_ is bc34bb33-dda6-3834-bc3c-ee5dffc036c3
+[22:24:17] [Server thread/INFO]: LeoG24_ joined the game
+[22:24:17] [Server thread/INFO]: LeoG24_[/127.233.113.15:42287] logged in with entity id 629 at ([world]55.5, 69.6875, 149.5)
+[22:24:33] [Server thread/INFO]: [Server] ban everyone
+[22:24:33] [Server thread/INFO]: Leenxy fell from a high place
+[22:24:38] [Server thread/INFO]: liljuz70 has made the advancement [Stone Age]
+[22:24:52] [Server thread/INFO]: [Server] ese es miprimo
+[22:24:53] [Server thread/INFO]: liljuz70 has made the advancement [Getting an Upgrade]
+[22:24:54] [Server thread/INFO]: Gianex has made the advancement [Stone Age]
+[22:25:01] [Server thread/INFO]: [Server] si esoy
+[22:25:02] [User Authenticator #1/INFO]: UUID of player EduardoKeith is 614014a7-d664-3694-ac6e-e88d6a358a90
+[22:25:02] [Server thread/INFO]: EduardoKeith joined the game
+[22:25:02] [Server thread/INFO]: EduardoKeith[/127.109.54.235:43213] logged in with entity id 1153 at ([world]101.5, 63.0, 63.5)
+[22:25:03] [Server thread/INFO]: [Server] t
+[22:25:11] [Server thread/INFO]: [Server] basta me peta el celu
+[22:25:18] [Server thread/INFO]: xMega10_ has made the advancement [Stone Age]
+[22:25:20] [Async Chat Thread - #0/INFO]: <EduardoKeith> c
+[22:25:23] [Server thread/INFO]: Leenxy has made the advancement [Getting an Upgrade]
+[22:25:38] [Server thread/INFO]: Gianex has made the advancement [Getting an Upgrade]
+[22:25:52] [Server thread/INFO]: xMega10_ has made the advancement [Getting an Upgrade]
+[22:25:59] [Async Chat Thread - #0/INFO]: <EduardoKeith> ME HICE UNA PALA
+[22:26:02] [Async Chat Thread - #0/INFO]: <EduardoKeith> XDDDDDDDDDDDD
+[22:26:17] [Async Chat Thread - #0/INFO]: <EduardoKeith> iba hacer un pico
+[22:26:29] [Server thread/INFO]: [Server] no podre entrar, si me meto a la 1.16.5 me peta todo
+[22:26:32] [User Authenticator #2/INFO]: UUID of player voned is c1cf5321-2117-373e-b505-d2103ed9b507
+[22:26:32] [Server thread/INFO]: voned joined the game
+[22:26:32] [Server thread/INFO]: voned[/127.172.86.77:47103] logged in with entity id 1647 at ([world]89.5, 69.0, 63.5)
+[22:26:34] [Server thread/INFO]: [Server] suerte chavales
+[22:26:46] [Async Chat Thread - #0/INFO]: <Leenxy> denme op plox
+[22:26:46] [Async Chat Thread - #0/INFO]: <voned> e
+[22:26:53] [Async Chat Thread - #0/INFO]: <xMega10_> bonita explosion
+[22:26:54] [Server thread/INFO]: EduardoKeith has made the advancement [Stone Age]
+[22:27:06] [Server thread/INFO]: EduardoKeith has made the advancement [Getting an Upgrade]
+[22:27:09] [Async Chat Thread - #0/INFO]: <voned> quien fue el baboso que hizo un hueco en el spawm
+[22:27:12] [Server thread/INFO]: Gianex has made the advancement [Acquire Hardware]
+[22:27:18] [Async Chat Thread - #0/INFO]: <Leenxy> fui yo perdon
+[22:27:21] [Async Chat Thread - #0/INFO]: <xMega10_> xdxd
+[22:27:22] [Async Chat Thread - #0/INFO]: <liljuz70> :v
+[22:27:24] [Async Chat Thread - #0/INFO]: <EduardoKeith> xdd
+[22:27:25] [Server thread/INFO]: liljuz70 has made the advancement [Acquire Hardware]
+[22:27:59] [Server thread/INFO]: EduardoKeith issued server command: /skin homero
+[22:28:00] [Thread-14/WARN]: java.lang.IllegalArgumentException: Unknown standard bukkit form: ITEM_SWEET_BERRIES_PICK_FROM_BUSH named ITEM_SWEET_BERRIES_PICK_FROM_BUSH
+[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:302)
+[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:288)
+[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.pullSystemValues(XRegistry.java:123)
+[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.pullValues(XRegistry.java:86)
+[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.getByName(XRegistry.java:219)
+[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shadow.xseries.XSound.matchXSound(XSound.java:1802)
+[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.bukkit.utils.SoundUtil.playSound(SoundUtil.java:51)
+[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:27)
+[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:24)
+[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shared.api.SharedSkinApplier.lambda$applySkin$1(SharedSkinApplier.java:66)
+[22:28:00] [Thread-14/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:183)
+[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shared.api.SharedSkinApplier.applySkin(SharedSkinApplier.java:66)
+[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shared.commands.SkinCommand.lambda$setSkin$6(SkinCommand.java:523)
+[22:28:00] [Thread-14/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:183)
+[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shared.commands.SkinCommand.setSkin(SkinCommand.java:523)
+[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shared.commands.SkinCommand.onSkinSetOther(SkinCommand.java:299)
+[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shared.commands.SkinCommand.onSkinSetShort(SkinCommand.java:153)
+[22:28:00] [Thread-14/WARN]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:710)
+[22:28:00] [Thread-14/WARN]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:735)
+[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88)
+[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121)
+[22:28:00] [Thread-14/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072)
+[22:28:00] [Thread-14/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+[22:28:00] [Thread-14/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[22:28:05] [Server thread/INFO]: EduardoKeith issued server command: /skin set homero
+[22:28:12] [Server thread/INFO]: Leenxy issued server command: /skin set camiuwu
+[22:28:13] [Server thread/INFO]: xMega10_ issued server command: /skin set 72DR
+[22:28:30] [Server thread/INFO]: [Server] cualquier vaina, si se aoagsay cualquier vaina, si se apaga el sv es que intente entrar a la 1.16.5
+[22:28:37] [Server thread/INFO]: liljuz70 has made the advancement [Isn't It Iron Pick]
+[22:28:43] [Server thread/INFO]: [Server] ya entr
+[22:29:17] [Async Chat Thread - #1/INFO]: <EduardoKeith> joder me asusto mega
+[22:29:18] [Async Chat Thread - #1/INFO]: <voned> hola bb
+[22:29:20] [Async Chat Thread - #1/INFO]: <EduardoKeith> xdxdd
+[22:29:20] [Async Chat Thread - #1/INFO]: <xMega10_> XDXD
+[22:29:22] [Async Chat Thread - #1/INFO]: <Gianex> me asustaste voned
+[22:29:30] [Server thread/INFO]: EduardoKeith has made the advancement [Monster Hunter]
+[22:29:37] [User Authenticator #3/INFO]: UUID of player ItzTsp is a378d004-59ff-3a9e-ba0f-97a9bd900214
+[22:29:37] [Server thread/INFO]: ItzTsp joined the game
+[22:29:37] [Server thread/INFO]: ItzTsp[/127.193.96.49:57857] logged in with entity id 3057 at ([world]86.5, 72.0, 70.5)
+[22:29:38] [Server thread/INFO]: Leenxy has made the advancement [Monster Hunter]
+[22:29:38] [Server thread/INFO]: voned has made the advancement [Stone Age]
+[22:29:39] [Server thread/INFO]: There are 8 of a max of 30 players online: liljuz70, Gianex, xMega10_, LeoG24_, Leenxy, EduardoKeith, voned, ItzTsp
+[22:29:48] [Server thread/INFO]: [Server] ban LeoG24_
+[22:30:10] [Async Chat Thread - #1/INFO]: <voned> jugar con shaders es hermoso
+[22:30:21] [Server thread/INFO]: ItzTsp issued server command: /skin llocochon
+[22:31:07] [Server thread/INFO]: ItzTsp has made the advancement [Stone Age]
+[22:31:23] [Server thread/INFO]: voned has made the advancement [Getting an Upgrade]
+[22:31:32] [Server thread/INFO]: LeoG24_ has made the advancement [Monster Hunter]
+[22:31:41] [Server thread/INFO]: ItzTsp has made the advancement [Getting an Upgrade]
+[22:31:47] [User Authenticator #4/INFO]: UUID of player rCesar_ is c81e10d8-a2b3-370d-a0ee-7688f0683cc9
+[22:31:47] [Server thread/INFO]: rCesar_ joined the game
+[22:31:47] [Server thread/INFO]: rCesar_[/127.254.202.117:37691] logged in with entity id 4712 at ([world]89.5, 67.0, 60.5)
+[22:31:56] [Server thread/INFO]: rCesar_ lost connection: Disconnected
+[22:31:56] [Server thread/INFO]: rCesar_ left the game
+[22:31:59] [Async Chat Thread - #2/INFO]: <ItzTsp> cesar no me deja entrar al server
+[22:32:07] [User Authenticator #4/INFO]: UUID of player rCesar_ is c81e10d8-a2b3-370d-a0ee-7688f0683cc9
+[22:32:07] [Server thread/INFO]: rCesar_ joined the game
+[22:32:07] [Server thread/INFO]: rCesar_[/127.254.202.117:33475] logged in with entity id 4917 at ([world]89.5, 67.0, 60.5)
+[22:32:49] [Async Chat Thread - #2/INFO]: <rCesar_> back
+[22:33:03] [Server thread/INFO]: liljuz70 has made the advancement [Monster Hunter]
+[22:33:05] [Async Chat Thread - #2/INFO]: <ItzTsp> veo como 3 nicknames
