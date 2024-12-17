@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-17 22:42:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 22:37:50 +0000"
@@ -308,7 +314,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-17 22:32:46 +0000",
-      "cooked_beef": "2024-12-17 22:28:35 +0000"
+      "cooked_beef": "2024-12-17 22:28:35 +0000",
+      "golden_apple": "2024-12-17 22:44:06 +0000"
     },
     "done": false
   },
@@ -606,10 +613,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-17 22:42:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2024-12-17 22:17:20 +0000",
-      "minecraft:mountains": "2024-12-17 22:19:53 +0000"
+      "minecraft:mountains": "2024-12-17 22:19:53 +0000",
+      "minecraft:river": "2024-12-17 22:42:29 +0000"
     },
     "done": false
   },
@@ -679,6 +693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-17 22:42:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 22:37:50 +0000"
@@ -733,6 +753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-17 22:42:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-17 22:20:53 +0000"
@@ -772,6 +798,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-17 22:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-17 22:42:55 +0000"
     },
     "done": true
   },
@@ -817,6 +849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-17 22:42:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-17 22:36:57 +0000"
@@ -840,6 +878,7 @@
       "minecraft:skeleton": "2024-12-17 22:34:44 +0000",
       "minecraft:spider": "2024-12-17 22:31:32 +0000",
       "minecraft:creeper": "2024-12-17 22:36:17 +0000",
+      "minecraft:cave_spider": "2024-12-17 22:44:07 +0000",
       "minecraft:zombie": "2024-12-17 22:35:42 +0000"
     },
     "done": false
@@ -922,6 +961,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-12-17 22:47:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-17 22:21:10 +0000"
@@ -973,6 +1018,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-17 22:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-17 22:42:55 +0000"
     },
     "done": true
   },
