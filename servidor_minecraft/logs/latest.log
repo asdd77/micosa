@@ -229,3 +229,27 @@ Caused by: java.lang.UnsupportedClassVersionError: org/geysermc/geyser/platform/
 [23:32:52] [Server thread/INFO]: [Server] h
 [23:33:07] [Async Chat Thread - #10/INFO]: <Gianex> p
 [23:33:11] [Async Chat Thread - #10/INFO]: <EduardoKeith> hp
+[23:34:18] [Async Chat Thread - #11/INFO]: <EduardoKeith> vamos carajo
+[23:34:19] [Server thread/INFO]: EduardoKeith has made the advancement [Diamonds!]
+[23:35:00] [Server thread/INFO]: There are 2 of a max of 30 players online: EduardoKeith, Gianex
+[23:38:48] [Async Chat Thread - #12/INFO]: <EduardoKeith> chorizo
+[23:39:12] [Server thread/INFO]: EduardoKeith lost connection: Disconnected
+[23:39:12] [Server thread/INFO]: EduardoKeith left the game
+[23:39:48] [User Authenticator #5/INFO]: UUID of player EduardoKeith is 614014a7-d664-3694-ac6e-e88d6a358a90
+[23:39:48] [Server thread/INFO]: EduardoKeith joined the game
+[23:39:48] [Server thread/INFO]: EduardoKeith[/127.109.54.235:60233] logged in with entity id 14007 at ([world]-537.045790679315, 63.0, -349.7348679263299)
+[23:39:59] [Server thread/INFO]: [Server] asd
+[23:40:58] [Async Chat Thread - #13/INFO]: <EduardoKeith> no fuimo
+[23:41:02] [Server thread/INFO]: EduardoKeith has made the advancement [We Need to Go Deeper]
+[23:41:08] [Server thread/INFO]: [Server] ban
+[23:41:10] [Async Chat Thread - #13/INFO]: <EduardoKeith> un portal
+[23:41:44] [Async Chat Thread - #13/INFO]: <EduardoKeith> dos portales
+[23:42:35] [Async Chat Thread - #13/INFO]: <Gianex> te puedes ir
+[23:42:38] [Async Chat Thread - #13/INFO]: <Gianex> al nether
+[23:42:45] [Async Chat Thread - #13/INFO]: <Gianex> gracias
+[23:42:46] [Async Chat Thread - #13/INFO]: <EduardoKeith> ando en el nether
+[23:42:57] [Async Chat Thread - #13/INFO]: <Gianex> no pasaba la noche al dormir
+[23:43:02] [Server thread/INFO]: [Server] tpa Gianex, EduardoKeith
+[23:43:08] [Async Chat Thread - #13/INFO]: <Gianex> te mato
+[23:43:51] [Server thread/INFO]: EduardoKeith lost connection: Disconnected
+[23:43:51] [Server thread/INFO]: EduardoKeith left the game
