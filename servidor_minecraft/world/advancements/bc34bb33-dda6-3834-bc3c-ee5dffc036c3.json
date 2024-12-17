@@ -577,7 +577,8 @@
       "minecraft:spider": "2024-12-17 22:31:32 +0000",
       "minecraft:creeper": "2024-12-17 22:36:17 +0000",
       "minecraft:cave_spider": "2024-12-17 22:44:07 +0000",
-      "minecraft:zombie": "2024-12-17 22:35:42 +0000"
+      "minecraft:zombie": "2024-12-17 22:35:42 +0000",
+      "minecraft:zombie_villager": "2024-12-17 23:19:03 +0000"
     },
     "done": false
   },
@@ -1042,7 +1043,8 @@
       "minecraft:forest": "2024-12-17 22:17:20 +0000",
       "minecraft:mountains": "2024-12-17 22:19:53 +0000",
       "minecraft:river": "2024-12-17 22:42:29 +0000",
-      "minecraft:wooded_hills": "2024-12-17 23:10:07 +0000"
+      "minecraft:wooded_hills": "2024-12-17 23:10:07 +0000",
+      "minecraft:plains": "2024-12-17 23:11:34 +0000"
     },
     "done": false
   },
