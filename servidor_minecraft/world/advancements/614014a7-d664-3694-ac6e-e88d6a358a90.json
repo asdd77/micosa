@@ -447,6 +447,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-12-17 23:50:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-17 23:15:40 +0000"
@@ -642,7 +648,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-17 22:29:30 +0000",
+      "minecraft:ghast": "2024-12-17 23:50:38 +0000",
       "minecraft:magma_cube": "2024-12-17 23:42:21 +0000",
+      "minecraft:piglin": "2024-12-17 23:48:49 +0000",
       "minecraft:zombie": "2024-12-17 23:33:06 +0000",
       "minecraft:zombie_villager": "2024-12-17 23:23:40 +0000"
     },
@@ -873,6 +881,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-17 22:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-17 23:51:40 +0000"
     },
     "done": true
   },
@@ -1276,6 +1290,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2024-12-17 23:43:17 +0000",
+      "minecraft:soul_sand_valley": "2024-12-17 23:46:49 +0000",
       "minecraft:basalt_deltas": "2024-12-17 23:41:03 +0000"
     },
     "done": false
@@ -1361,6 +1376,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-12-17 22:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-17 23:48:07 +0000"
     },
     "done": true
   },

@@ -253,3 +253,21 @@ Caused by: java.lang.UnsupportedClassVersionError: org/geysermc/geyser/platform/
 [23:43:08] [Async Chat Thread - #13/INFO]: <Gianex> te mato
 [23:43:51] [Server thread/INFO]: EduardoKeith lost connection: Disconnected
 [23:43:51] [Server thread/INFO]: EduardoKeith left the game
+[23:44:23] [Server thread/INFO]: [Server] h
+[23:44:26] [Async Chat Thread - #14/INFO]: <Gianex> p
+[23:44:39] [User Authenticator #6/INFO]: UUID of player EduardoKeith is 614014a7-d664-3694-ac6e-e88d6a358a90
+[23:44:39] [Server thread/INFO]: EduardoKeith joined the game
+[23:44:39] [Server thread/INFO]: EduardoKeith[/127.109.54.235:50271] logged in with entity id 15712 at ([world_nether]-4.960313152265039, 69.0, -162.4335248900688)
+[23:46:29] [Async Chat Thread - #15/INFO]: <EduardoKeith> medio cora
+[23:47:10] [Server thread/INFO]: Gianex has made the advancement [Not Today, Thank You]
+[23:47:35] [Server thread/INFO]: EduardoKeith was burnt to a crisp whilst fighting Ghast
+[23:47:40] [Server thread/INFO]: EduardoKeith issued server command: /back
+[23:49:08] [Server thread/INFO]: EduardoKeith issued server command: /home
+[23:49:14] [Server thread/INFO]: EduardoKeith issued server command: /jajalol
+[23:49:55] [Server thread/INFO]: EduardoKeith burned to death
+[23:50:00] [Server thread/INFO]: EduardoKeith issued server command: /back
+[23:50:38] [Server thread/INFO]: EduardoKeith has completed the challenge [Return to Sender]
+[23:50:43] [Async Chat Thread - #16/INFO]: <EduardoKeith> a casa pete
+[23:51:46] [Async Chat Thread - #17/INFO]: <EduardoKeith> jugare mañana
+[23:51:47] [Server thread/INFO]: EduardoKeith lost connection: Disconnected
+[23:51:47] [Server thread/INFO]: EduardoKeith left the game
