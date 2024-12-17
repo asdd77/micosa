@@ -1,17 +1,17 @@
-[22:23:14] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:23:15] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[22:23:15] [Worker-Main-1/INFO]: Loaded 7 recipes
-[22:23:17] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[22:23:17] [Server thread/INFO]: Loading properties
-[22:23:17] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[22:23:18] [Server thread/INFO]: Debug logging is disabled
-[22:23:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:23:18] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:23:18] [Server thread/INFO]: Default game type: SURVIVAL
-[22:23:18] [Server thread/INFO]: Generating keypair
-[22:23:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:23:18] [Server thread/INFO]: Using epoll channel type
-[22:23:19] [Server thread/ERROR]: Could not load 'plugins/ViaVersion-5.2.0.jar' in folder 'plugins'
+[23:04:09] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:04:10] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[23:04:12] [Worker-Main-1/INFO]: Loaded 7 recipes
+[23:04:15] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[23:04:15] [Server thread/INFO]: Loading properties
+[23:04:15] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[23:04:16] [Server thread/INFO]: Debug logging is disabled
+[23:04:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:04:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:04:16] [Server thread/INFO]: Default game type: SURVIVAL
+[23:04:16] [Server thread/INFO]: Generating keypair
+[23:04:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:04:16] [Server thread/INFO]: Using epoll channel type
+[23:04:18] [Server thread/ERROR]: Could not load 'plugins/ViaVersion-5.2.0.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: com/viaversion/viaversion/ViaVersionPlugin has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:157) ~[patched_1.16.5.jar:git-Paper-794]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:414) ~[patched_1.16.5.jar:git-Paper-794]
@@ -35,7 +35,7 @@ Caused by: java.lang.UnsupportedClassVersionError: com/viaversion/viaversion/Via
 	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:82) ~[patched_1.16.5.jar:git-Paper-794]
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:153) ~[patched_1.16.5.jar:git-Paper-794]
 	... 7 more
-[22:23:19] [Server thread/ERROR]: Could not load 'plugins/ViaBackwards-5.2.0.jar' in folder 'plugins'
+[23:04:18] [Server thread/ERROR]: Could not load 'plugins/ViaBackwards-5.2.0.jar' in folder 'plugins'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [ViaVersion]. Please download and install these plugins to run 'ViaBackwards'.
 	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:291) ~[patched_1.16.5.jar:git-Paper-794]
 	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:393) ~[patched_1.16.5.jar:git-Paper-794]
@@ -43,7 +43,7 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1074) ~[patched_1.16.5.jar:git-Paper-794]
 	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
-[22:23:19] [Server thread/ERROR]: Could not load 'plugins/Geyser-Spigot.jar' in folder 'plugins'
+[23:04:18] [Server thread/ERROR]: Could not load 'plugins/Geyser-Spigot.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: org/geysermc/geyser/platform/spigot/GeyserSpigotPlugin has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:157) ~[patched_1.16.5.jar:git-Paper-794]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:414) ~[patched_1.16.5.jar:git-Paper-794]
@@ -67,364 +67,121 @@ Caused by: java.lang.UnsupportedClassVersionError: org/geysermc/geyser/platform/
 	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:82) ~[patched_1.16.5.jar:git-Paper-794]
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:153) ~[patched_1.16.5.jar:git-Paper-794]
 	... 7 more
-[22:23:19] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v7.4
-[22:23:19] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[22:23:19] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[22:23:20] [Server thread/INFO]: [floodgate] Took 806ms to boot Floodgate
-[22:23:20] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.5.0
-[22:23:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:23:20] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.0
-[22:23:20] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[22:23:21] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
-[22:23:21] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFloodgate skin listener registered[0;39m
-[22:23:22] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
-[22:23:22] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
-[22:23:22] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
-[22:23:22] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
-[22:23:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:23:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:23:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:23:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:23:22] [Server thread/INFO]: Preparing level "world"
-[22:23:22] [Server thread/ERROR]: Could not set generator for default world 'world': Plugin 'TerraformGenerator' does not exist
-[22:23:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:23:22] [Server thread/INFO]: Preparing spawn area: 0%
-[22:23:22] [Server thread/INFO]: Time elapsed: 454 ms
-[22:23:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:23:23] [Server thread/INFO]: Time elapsed: 481 ms
-[22:23:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:23:23] [Server thread/INFO]: Time elapsed: 268 ms
-[22:23:23] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
-[22:23:23] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[22:23:23] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
-[22:23:23] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[22:23:23] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[22:23:24] [Server thread/INFO]: Running delayed init tasks
-[22:23:24] [Server thread/INFO]: Done (6.648s)! For help, type "help"
-[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
-[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
-[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
-[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
-[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
-[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
-[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
-[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.25
-[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
-[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
-[22:23:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[22:23:24] [Server thread/INFO]: Timings Reset
-[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.0[0;39m
-[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mad418e4[0;39m
-[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[22:23:25] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[22:23:43] [User Authenticator #1/INFO]: UUID of player liljuz70 is 5973f352-51c7-35cb-ba62-17bd97e3e37c
-[22:23:43] [Server thread/INFO]: liljuz70 joined the game
-[22:23:43] [Server thread/INFO]: liljuz70[/127.185.87.55:42243] logged in with entity id 355 at ([world]106.74943086428551, 71.0, 25.032883372555993)
-[22:23:59] [Server thread/INFO]: [Server] hola lil
-[22:24:00] [User Authenticator #1/INFO]: UUID of player Leenxy is 3cd529c8-47b2-3831-9b83-4783b7504b53
-[22:24:00] [Server thread/INFO]: Leenxy joined the game
-[22:24:00] [Server thread/INFO]: Leenxy[/127.183.225.72:50633] logged in with entity id 551 at ([world]93.69999998807907, 62.0, 64.76762018702468)
-[22:24:09] [User Authenticator #1/INFO]: UUID of player Gianex is 8162c036-68e4-3c01-a79c-dd1007938f2b
-[22:24:09] [Server thread/INFO]: Gianex joined the game
-[22:24:09] [Server thread/INFO]: Gianex[/127.99.88.48:42893] logged in with entity id 608 at ([world]110.30000001192093, 61.0, 58.1688964444712)
-[22:24:12] [User Authenticator #1/INFO]: UUID of player xMega10_ is 1e83bc86-1c6c-31b5-b20b-48ae4f0a6189
-[22:24:12] [Server thread/INFO]: xMega10_ joined the game
-[22:24:12] [Server thread/INFO]: xMega10_[/127.222.183.28:33071] logged in with entity id 612 at ([world]65.0213097977628, 75.0, 66.36987441615761)
-[22:24:17] [User Authenticator #1/INFO]: UUID of player LeoG24_ is bc34bb33-dda6-3834-bc3c-ee5dffc036c3
-[22:24:17] [Server thread/INFO]: LeoG24_ joined the game
-[22:24:17] [Server thread/INFO]: LeoG24_[/127.233.113.15:42287] logged in with entity id 629 at ([world]55.5, 69.6875, 149.5)
-[22:24:33] [Server thread/INFO]: [Server] ban everyone
-[22:24:33] [Server thread/INFO]: Leenxy fell from a high place
-[22:24:38] [Server thread/INFO]: liljuz70 has made the advancement [Stone Age]
-[22:24:52] [Server thread/INFO]: [Server] ese es miprimo
-[22:24:53] [Server thread/INFO]: liljuz70 has made the advancement [Getting an Upgrade]
-[22:24:54] [Server thread/INFO]: Gianex has made the advancement [Stone Age]
-[22:25:01] [Server thread/INFO]: [Server] si esoy
-[22:25:02] [User Authenticator #1/INFO]: UUID of player EduardoKeith is 614014a7-d664-3694-ac6e-e88d6a358a90
-[22:25:02] [Server thread/INFO]: EduardoKeith joined the game
-[22:25:02] [Server thread/INFO]: EduardoKeith[/127.109.54.235:43213] logged in with entity id 1153 at ([world]101.5, 63.0, 63.5)
-[22:25:03] [Server thread/INFO]: [Server] t
-[22:25:11] [Server thread/INFO]: [Server] basta me peta el celu
-[22:25:18] [Server thread/INFO]: xMega10_ has made the advancement [Stone Age]
-[22:25:20] [Async Chat Thread - #0/INFO]: <EduardoKeith> c
-[22:25:23] [Server thread/INFO]: Leenxy has made the advancement [Getting an Upgrade]
-[22:25:38] [Server thread/INFO]: Gianex has made the advancement [Getting an Upgrade]
-[22:25:52] [Server thread/INFO]: xMega10_ has made the advancement [Getting an Upgrade]
-[22:25:59] [Async Chat Thread - #0/INFO]: <EduardoKeith> ME HICE UNA PALA
-[22:26:02] [Async Chat Thread - #0/INFO]: <EduardoKeith> XDDDDDDDDDDDD
-[22:26:17] [Async Chat Thread - #0/INFO]: <EduardoKeith> iba hacer un pico
-[22:26:29] [Server thread/INFO]: [Server] no podre entrar, si me meto a la 1.16.5 me peta todo
-[22:26:32] [User Authenticator #2/INFO]: UUID of player voned is c1cf5321-2117-373e-b505-d2103ed9b507
-[22:26:32] [Server thread/INFO]: voned joined the game
-[22:26:32] [Server thread/INFO]: voned[/127.172.86.77:47103] logged in with entity id 1647 at ([world]89.5, 69.0, 63.5)
-[22:26:34] [Server thread/INFO]: [Server] suerte chavales
-[22:26:46] [Async Chat Thread - #0/INFO]: <Leenxy> denme op plox
-[22:26:46] [Async Chat Thread - #0/INFO]: <voned> e
-[22:26:53] [Async Chat Thread - #0/INFO]: <xMega10_> bonita explosion
-[22:26:54] [Server thread/INFO]: EduardoKeith has made the advancement [Stone Age]
-[22:27:06] [Server thread/INFO]: EduardoKeith has made the advancement [Getting an Upgrade]
-[22:27:09] [Async Chat Thread - #0/INFO]: <voned> quien fue el baboso que hizo un hueco en el spawm
-[22:27:12] [Server thread/INFO]: Gianex has made the advancement [Acquire Hardware]
-[22:27:18] [Async Chat Thread - #0/INFO]: <Leenxy> fui yo perdon
-[22:27:21] [Async Chat Thread - #0/INFO]: <xMega10_> xdxd
-[22:27:22] [Async Chat Thread - #0/INFO]: <liljuz70> :v
-[22:27:24] [Async Chat Thread - #0/INFO]: <EduardoKeith> xdd
-[22:27:25] [Server thread/INFO]: liljuz70 has made the advancement [Acquire Hardware]
-[22:27:59] [Server thread/INFO]: EduardoKeith issued server command: /skin homero
-[22:28:00] [Thread-14/WARN]: java.lang.IllegalArgumentException: Unknown standard bukkit form: ITEM_SWEET_BERRIES_PICK_FROM_BUSH named ITEM_SWEET_BERRIES_PICK_FROM_BUSH
-[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:302)
-[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:288)
-[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.pullSystemValues(XRegistry.java:123)
-[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.pullValues(XRegistry.java:86)
-[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.getByName(XRegistry.java:219)
-[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shadow.xseries.XSound.matchXSound(XSound.java:1802)
-[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.bukkit.utils.SoundUtil.playSound(SoundUtil.java:51)
-[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:27)
-[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:24)
-[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shared.api.SharedSkinApplier.lambda$applySkin$1(SharedSkinApplier.java:66)
-[22:28:00] [Thread-14/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:183)
-[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shared.api.SharedSkinApplier.applySkin(SharedSkinApplier.java:66)
-[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shared.commands.SkinCommand.lambda$setSkin$6(SkinCommand.java:523)
-[22:28:00] [Thread-14/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:183)
-[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shared.commands.SkinCommand.setSkin(SkinCommand.java:523)
-[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shared.commands.SkinCommand.onSkinSetOther(SkinCommand.java:299)
-[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shared.commands.SkinCommand.onSkinSetShort(SkinCommand.java:153)
-[22:28:00] [Thread-14/WARN]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:710)
-[22:28:00] [Thread-14/WARN]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:735)
-[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88)
-[22:28:00] [Thread-14/WARN]: 	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121)
-[22:28:00] [Thread-14/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072)
-[22:28:00] [Thread-14/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
-[22:28:00] [Thread-14/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:829)
-[22:28:05] [Server thread/INFO]: EduardoKeith issued server command: /skin set homero
-[22:28:12] [Server thread/INFO]: Leenxy issued server command: /skin set camiuwu
-[22:28:13] [Server thread/INFO]: xMega10_ issued server command: /skin set 72DR
-[22:28:30] [Server thread/INFO]: [Server] cualquier vaina, si se aoagsay cualquier vaina, si se apaga el sv es que intente entrar a la 1.16.5
-[22:28:37] [Server thread/INFO]: liljuz70 has made the advancement [Isn't It Iron Pick]
-[22:28:43] [Server thread/INFO]: [Server] ya entr
-[22:29:17] [Async Chat Thread - #1/INFO]: <EduardoKeith> joder me asusto mega
-[22:29:18] [Async Chat Thread - #1/INFO]: <voned> hola bb
-[22:29:20] [Async Chat Thread - #1/INFO]: <EduardoKeith> xdxdd
-[22:29:20] [Async Chat Thread - #1/INFO]: <xMega10_> XDXD
-[22:29:22] [Async Chat Thread - #1/INFO]: <Gianex> me asustaste voned
-[22:29:30] [Server thread/INFO]: EduardoKeith has made the advancement [Monster Hunter]
-[22:29:37] [User Authenticator #3/INFO]: UUID of player ItzTsp is a378d004-59ff-3a9e-ba0f-97a9bd900214
-[22:29:37] [Server thread/INFO]: ItzTsp joined the game
-[22:29:37] [Server thread/INFO]: ItzTsp[/127.193.96.49:57857] logged in with entity id 3057 at ([world]86.5, 72.0, 70.5)
-[22:29:38] [Server thread/INFO]: Leenxy has made the advancement [Monster Hunter]
-[22:29:38] [Server thread/INFO]: voned has made the advancement [Stone Age]
-[22:29:39] [Server thread/INFO]: There are 8 of a max of 30 players online: liljuz70, Gianex, xMega10_, LeoG24_, Leenxy, EduardoKeith, voned, ItzTsp
-[22:29:48] [Server thread/INFO]: [Server] ban LeoG24_
-[22:30:10] [Async Chat Thread - #1/INFO]: <voned> jugar con shaders es hermoso
-[22:30:21] [Server thread/INFO]: ItzTsp issued server command: /skin llocochon
-[22:31:07] [Server thread/INFO]: ItzTsp has made the advancement [Stone Age]
-[22:31:23] [Server thread/INFO]: voned has made the advancement [Getting an Upgrade]
-[22:31:32] [Server thread/INFO]: LeoG24_ has made the advancement [Monster Hunter]
-[22:31:41] [Server thread/INFO]: ItzTsp has made the advancement [Getting an Upgrade]
-[22:31:47] [User Authenticator #4/INFO]: UUID of player rCesar_ is c81e10d8-a2b3-370d-a0ee-7688f0683cc9
-[22:31:47] [Server thread/INFO]: rCesar_ joined the game
-[22:31:47] [Server thread/INFO]: rCesar_[/127.254.202.117:37691] logged in with entity id 4712 at ([world]89.5, 67.0, 60.5)
-[22:31:56] [Server thread/INFO]: rCesar_ lost connection: Disconnected
-[22:31:56] [Server thread/INFO]: rCesar_ left the game
-[22:31:59] [Async Chat Thread - #2/INFO]: <ItzTsp> cesar no me deja entrar al server
-[22:32:07] [User Authenticator #4/INFO]: UUID of player rCesar_ is c81e10d8-a2b3-370d-a0ee-7688f0683cc9
-[22:32:07] [Server thread/INFO]: rCesar_ joined the game
-[22:32:07] [Server thread/INFO]: rCesar_[/127.254.202.117:33475] logged in with entity id 4917 at ([world]89.5, 67.0, 60.5)
-[22:32:49] [Async Chat Thread - #2/INFO]: <rCesar_> back
-[22:33:03] [Server thread/INFO]: liljuz70 has made the advancement [Monster Hunter]
-[22:33:05] [Async Chat Thread - #2/INFO]: <ItzTsp> veo como 3 nicknames
-[22:33:24] [Server thread/INFO]: rCesar_ was slain by voned
-[22:33:26] [Async Chat Thread - #2/INFO]: <ItzTsp> hola juanes
-[22:33:28] [Async Chat Thread - #2/INFO]: <xMega10_> JAJA
-[22:33:30] [Async Chat Thread - #2/INFO]: <Gianex> furro
-[22:33:32] [Async Chat Thread - #2/INFO]: <Gianex> de mierda
-[22:33:34] [Async Chat Thread - #2/INFO]: <ItzTsp> pq eres un negro
-[22:33:36] [Server thread/INFO]: Leenxy has made the advancement [Acquire Hardware]
-[22:33:37] [Server thread/INFO]: LeoG24_ has made the advancement [Acquire Hardware]
-[22:33:38] [Server thread/INFO]: ItzTsp issued server command: /skin AquinoBy02
-[22:33:42] [Server thread/INFO]: Leenxy has made the advancement [Isn't It Iron Pick]
-[22:33:45] [Async Chat Thread - #2/INFO]: <ItzTsp> list ya no soy furro
-[22:33:45] [Server thread/INFO]: LeoG24_ has made the advancement [Isn't It Iron Pick]
-[22:33:59] [Server thread/INFO]: Gianex has made the advancement [Isn't It Iron Pick]
-[22:34:14] [Server thread/INFO]: voned was slain by rCesar_
-[22:34:15] [Server thread/INFO]: rCesar_ has made the advancement [Getting an Upgrade]
-[22:34:15] [Server thread/INFO]: rCesar_ has made the advancement [Stone Age]
-[22:34:16] [Server thread/INFO]: LeoG24_ has made the advancement [Suit Up]
-[22:34:29] [Async Chat Thread - #2/INFO]: <rCesar_> perdón coned toma
-[22:34:36] [Async Chat Thread - #2/INFO]: <ItzTsp> estuve corriendo como por media hora
-[22:34:37] [Server thread/INFO]: LeoG24_ has made the advancement [Not Today, Thank You]
-[22:34:41] [Async Chat Thread - #2/INFO]: <ItzTsp> y solo me bajo 2 muslitos¡
-[22:34:43] [Async Chat Thread - #2/INFO]: <ItzTsp> que bueno
-[22:34:53] [Async Chat Thread - #2/INFO]: <EduardoKeith> like si no encuentro hierro
-[22:34:55] [Async Chat Thread - #2/INFO]: <EduardoKeith> like
-[22:35:09] [Server thread/INFO]: rCesar_ issued server command: /tpa liljuz70
-[22:35:12] [Async Chat Thread - #2/INFO]: <xMega10_> 2+2 es 4
-[22:35:16] [Server thread/INFO]: xMega10_ has made the advancement [Acquire Hardware]
-[22:35:22] [Server thread/INFO]: rCesar_ issued server command: /tpa liljuz70
-[22:35:24] [Async Chat Thread - #2/INFO]: <ItzTsp> quien coño es el de abajo
-[22:35:30] [Async Chat Thread - #2/INFO]: <rCesar_> acéptame ahí lui
-[22:35:36] [Server thread/INFO]: liljuz70 issued server command: /tpaccept
-[22:35:40] [Server thread/INFO]: rCesar_ issued server command: /tpa liljuz70
-[22:35:46] [Async Chat Thread - #2/INFO]: <rCesar_> acéptame ahí
-[22:35:55] [Server thread/INFO]: liljuz70 issued server command: /tpaccept
-[22:35:59] [Async Chat Thread - #2/INFO]: <liljuz70> pero ya acepte
-[22:36:04] [Async Chat Thread - #2/INFO]: <rCesar_> es que me movi
-[22:36:08] [Async Chat Thread - #2/INFO]: <Gianex> me robaron mi comida
-[22:36:10] [Async Chat Thread - #2/INFO]: <liljuz70> pendejo estupido
-[22:36:16] [Async Chat Thread - #2/INFO]: <rCesar_> asd
-[22:36:22] [Server thread/INFO]: rCesar_ issued server command: /tpa liljuz70
-[22:36:26] [Async Chat Thread - #2/INFO]: <ItzTsp> una araña de cueva
-[22:36:26] [Async Chat Thread - #2/INFO]: <rCesar_> pero acept
-[22:36:27] [Async Chat Thread - #2/INFO]: <Gianex> ok voned
-[22:36:28] [Async Chat Thread - #2/INFO]: <EduardoKeith> hongos
-[22:36:30] [Async Chat Thread - #2/INFO]: <Gianex> si tsp
-[22:36:31] [Server thread/INFO]: Leenxy has made the advancement [Hot Stuff]
-[22:36:32] [Server thread/INFO]: liljuz70 issued server command: /tpaccept
-[22:36:33] [Async Chat Thread - #2/INFO]: <voned> que
-[22:36:40] [Server thread/INFO]: ItzTsp has made the advancement [Monster Hunter]
-[22:36:41] [Server thread/INFO]: Gianex has made the advancement [Monster Hunter]
-[22:36:44] [Server thread/INFO]: LeoG24_ has made the advancement [Hot Stuff]
-[22:36:47] [Async Chat Thread - #2/INFO]: <ItzTsp> mine shaft
-[22:36:55] [Async Chat Thread - #2/INFO]: <rCesar_> que me mira
-[22:36:57] [Async Chat Thread - #2/INFO]: <liljuz70> no w que miras
-[22:37:06] [Async Chat Thread - #2/INFO]: <rCesar_> que miras tu
-[22:37:09] [Async Chat Thread - #2/INFO]: <liljuz70> unu
-[22:37:10] [Server thread/INFO]: EduardoKeith lost connection: Timed out
-[22:37:10] [Server thread/INFO]: EduardoKeith left the game
-[22:37:20] [User Authenticator #5/INFO]: UUID of player EduardoKeith is 614014a7-d664-3694-ac6e-e88d6a358a90
-[22:37:21] [Server thread/INFO]: EduardoKeith joined the game
-[22:37:21] [Server thread/INFO]: EduardoKeith[/127.109.54.235:38731] logged in with entity id 8533 at ([world]-337.8845659515669, 92.72926137808082, 429.4406111057926)
-[22:37:30] [Server thread/INFO]: ItzTsp was slain by Cave Spider
-[22:37:34] [Async Chat Thread - #2/INFO]: <EduardoKeith> de la nada se me cayo el internet
-[22:37:36] [Async Chat Thread - #2/INFO]: <ItzTsp> qq
-[22:37:40] [Async Chat Thread - #2/INFO]: <ItzTsp> man
-[22:37:40] [Server thread/INFO]: rCesar_ has made the advancement [Acquire Hardware]
-[22:37:43] [Async Chat Thread - #2/INFO]: <ItzTsp> se me bugeo bien feo la camara
-[22:37:46] [Server thread/INFO]: ItzTsp issued server command: /back
-[22:37:49] [Async Chat Thread - #2/INFO]: <liljuz70> oe
-[22:37:54] [Server thread/INFO]: xMega10_ has made the advancement [Suit Up]
-[22:38:12] [Server thread/INFO]: rCesar_ has made the advancement [Isn't It Iron Pick]
-[22:38:17] [Server thread/INFO]: ItzTsp was slain by Cave Spider
-[22:38:23] [Server thread/INFO]: xMega10_ has made the advancement [Isn't It Iron Pick]
-[22:38:33] [Async Chat Thread - #2/INFO]: <ItzTsp> imagina caer en telas de araña
-[22:38:41] [Server thread/INFO]: ItzTsp issued server command: /back
-[22:39:05] [Server thread/INFO]: ItzTsp was slain by Cave Spider
-[22:39:06] [Server thread/INFO]: rCesar_ has made the advancement [Monster Hunter]
-[22:39:11] [Async Chat Thread - #2/INFO]: <Gianex> hagamoslo anal
-[22:39:14] [Async Chat Thread - #2/INFO]: <Gianex> anarquico*
-[22:39:17] [Async Chat Thread - #2/INFO]: <ItzTsp> portal creo
-[22:39:19] [Async Chat Thread - #2/INFO]: <EduardoKeith> qqqqqqq
-[22:39:21] [Async Chat Thread - #2/INFO]: <Leenxy> sisisisisi
-[22:39:26] [Server thread/INFO]: ItzTsp issued server command: /back
-[22:39:36] [Async Chat Thread - #2/INFO]: <EduardoKeith> me rompi las piernas
-[22:39:46] [Async Chat Thread - #2/INFO]: <EduardoKeith> HIERRO
-[22:39:59] [Async Chat Thread - #2/INFO]: <ItzTsp> crei que era portal en ruinas
-[22:40:02] [Async Chat Thread - #2/INFO]: <ItzTsp> era lava
-[22:40:11] [Server thread/INFO]: EduardoKeith has made the advancement [Acquire Hardware]
-[22:40:44] [Server thread/INFO]: EduardoKeith has made the advancement [Isn't It Iron Pick]
-[22:40:49] [Async Chat Thread - #2/INFO]: <rCesar_> mucho xray
-[22:40:57] [Async Chat Thread - #2/INFO]: <ItzTsp> envidia
-[22:41:20] [Server thread/INFO]: ItzTsp has made the advancement [Acquire Hardware]
-[22:41:38] [Async Chat Thread - #2/INFO]: <liljuz70> oia algo aca
-[22:41:40] [Async Chat Thread - #2/INFO]: <liljuz70> mimimimi
-[22:41:42] [Async Chat Thread - #2/INFO]: <xMega10_> full iron
-[22:41:47] [Async Chat Thread - #2/INFO]: <rCesar_> qe cosa
-[22:41:48] [Async Chat Thread - #2/INFO]: <EduardoKeith> feliz cumpleaños
-[22:41:55] [Async Chat Thread - #2/INFO]: <rCesar_> ssy ban everyone
-[22:42:00] [Server thread/INFO]: EduardoKeith has made the advancement [Suit Up]
-[22:42:01] [Async Chat Thread - #2/INFO]: <liljuz70> cesar no te voy a enseñar teta
-[22:42:04] [Async Chat Thread - #2/INFO]: <liljuz70> dejame
-[22:42:08] [Async Chat Thread - #2/INFO]: <rCesar_> que decia
-[22:42:13] [Async Chat Thread - #2/INFO]: <rCesar_> que quieres
-[22:42:15] [Async Chat Thread - #2/INFO]: <liljuz70> acoso
-[22:42:21] [Server thread/INFO]: voned has made the advancement [Sweet Dreams]
-[22:42:21] [Async Chat Thread - #2/INFO]: <rCesar_> cállate a la verga leo
-[22:42:27] [Async Chat Thread - #2/INFO]: <liljuz70> :v
-[22:42:36] [Server thread/INFO]: ItzTsp has made the advancement [Isn't It Iron Pick]
-[22:42:40] [Async Chat Thread - #2/INFO]: <rCesar_> cual acoso te sigo para diamantes gratis
-[22:42:57] [Server thread/INFO]: xMega10_ lost connection: Disconnected
-[22:42:57] [Server thread/INFO]: xMega10_ left the game
-[22:43:06] [Async Chat Thread - #2/INFO]: <liljuz70> en mis tiempos se hayaba facil en la -56
-[22:43:09] [Server thread/INFO]: ItzTsp has made the advancement [Not Today, Thank You]
-[22:43:12] [Async Chat Thread - #2/INFO]: <liljuz70> que es eso de ir a la 12
-[22:43:25] [Async Chat Thread - #2/INFO]: <ItzTsp> when
-[22:43:26] [Async Chat Thread - #2/INFO]: <rCesar_> quien es el de llsm al 1 para saber de su saldo
-[22:43:30] [Async Chat Thread - #2/INFO]: <ItzTsp> un creeper me esta mirando
-[22:43:32] [Async Chat Thread - #2/INFO]: <ItzTsp> y no explota
-[22:43:41] [Async Chat Thread - #2/INFO]: <LeoG24_> es gian
-[22:43:48] [Async Chat Thread - #2/INFO]: <rCesar_> estimado cliente, marque 1 para saber saldo, marque 2 para recibir soporte
-[22:43:55] [Async Chat Thread - #2/INFO]: <ItzTsp> man
-[22:43:56] [Async Chat Thread - #2/INFO]: <ItzTsp> que mierda
-[22:44:01] [Async Chat Thread - #2/INFO]: <ItzTsp> porque aveces
-[22:44:06] [Async Chat Thread - #2/INFO]: <ItzTsp> mi camara da vueltas pq si
-[22:44:11] [Async Chat Thread - #2/INFO]: <rCesar_> casi me muero louis
-[22:44:31] [Async Chat Thread - #2/INFO]: <rCesar_> XD quien es el niño
-[22:44:41] [Async Chat Thread - #2/INFO]: <EduardoKeith> apoco andan en vc
-[22:44:45] [Async Chat Thread - #2/INFO]: <rCesar_> se
-[22:44:45] [Async Chat Thread - #2/INFO]: <LeoG24_> se
-[22:44:47] [Server thread/INFO]: Leenxy has made the advancement [We Need to Go Deeper]
-[22:44:53] [Async Chat Thread - #2/INFO]: <EduardoKeith> :v
-[22:44:53] [Async Chat Thread - #2/INFO]: <liljuz70> like si tienes pena
-[22:45:00] [Async Chat Thread - #2/INFO]: <rCesar_> dislike
-[22:45:01] [Server thread/INFO]: ItzTsp was slain by Cave Spider
-[22:45:25] [Server thread/INFO]: ItzTsp issued server command: /back
-[22:45:30] [Async Chat Thread - #2/INFO]: <rCesar_> Louis pégame 1 solo hit
-[22:45:34] [Async Chat Thread - #2/INFO]: <rCesar_> que hablan de mi
-[22:45:36] [Server thread/INFO]: rCesar_ was slain by liljuz70
-[22:45:45] [Async Chat Thread - #2/INFO]: <rCesar_> es mentira, no puse nada
-[22:45:48] [Server thread/INFO]: rCesar_ issued server command: /back
-[22:45:56] [Async Chat Thread - #2/INFO]: <rCesar_> es tu imaginación
-[22:46:03] [Async Chat Thread - #2/INFO]: <rCesar_> y perdon
-[22:46:03] [Server thread/INFO]: EduardoKeith issued server command: /plugins
-[22:46:10] [Async Chat Thread - #2/INFO]: <rCesar_> y mi pico
-[22:46:25] [Async Chat Thread - #2/INFO]: <rCesar_> maldito ladron
-[22:46:34] [Async Chat Thread - #2/INFO]: <liljuz70> cual ladron
-[22:46:39] [Async Chat Thread - #2/INFO]: <rCesar_> XD ese gianex
-[22:46:43] [Async Chat Thread - #2/INFO]: <rCesar_> pobre niño
-[22:46:53] [Async Chat Thread - #2/INFO]: <EduardoKeith> porque siento que me andan siguendo wtf
-[22:46:54] [Server thread/INFO]: ItzTsp has made the advancement [Suit Up]
-[22:46:55] [Async Chat Thread - #2/INFO]: <rCesar_> dame mis diamantes
-[22:47:01] [Async Chat Thread - #2/INFO]: <liljuz70> no hay
-[22:47:03] [Async Chat Thread - #2/INFO]: <liljuz70> soy salado
-[22:47:10] [Async Chat Thread - #2/INFO]: <liljuz70> por las huevas me sigues
-[22:47:26] [Async Chat Thread - #2/INFO]: <rCesar_> mi carbón eso sí e mio
-[22:47:39] [Server thread/INFO]: rCesar_ issued server command: /tpa LeoG24_
-[22:47:43] [Server thread/INFO]: LeoG24_ issued server command: /tpaccept
-[22:48:07] [Server thread/INFO]: rCesar_ tried to swim in lava
-[22:48:58] [Async Chat Thread - #3/INFO]: <Gianex> cesar metete al vc de cesar prendemelo
-[22:49:41] [Server thread/INFO]: rCesar_ issued server command: /tpa LeoG24_
-[22:49:48] [Server thread/INFO]: LeoG24_ issued server command: /tpaccept
-[22:49:56] [Server thread/INFO]: Leenxy has made the advancement [Diamonds!]
-[22:50:00] [Async Chat Thread - #4/INFO]: <EduardoKeith> feliz cumpleaños
-[22:50:00] [Async Chat Thread - #4/INFO]: <ItzTsp> tio
-[22:50:04] [Async Chat Thread - #4/INFO]: <ItzTsp> tengo una granja de arañas
-[22:50:55] [Async Chat Thread - #4/INFO]: <rCesar_> ando viendo
-[22:51:00] [Server thread/INFO]: rCesar_ tried to swim in lava
-[22:51:13] [Server thread/INFO]: rCesar_ issued server command: /tpa LeoG24_
-[22:51:16] [Server thread/INFO]: LeoG24_ issued server command: /tpaccept
-[22:51:28] [Server thread/INFO]: voned issued server command: /tpa gianex
-[22:51:56] [Async Chat Thread - #5/INFO]: <rCesar_> yo hablaria
-[22:52:03] [Async Chat Thread - #5/INFO]: <rCesar_> pero antes tengo que revisar mi casa
-[22:52:06] [Async Chat Thread - #5/INFO]: <Leenxy> q
-[22:52:10] [Server thread/INFO]: liljuz70 has made the advancement [Suit Up]
-[22:52:21] [Server thread/INFO]: EduardoKeith lost connection: Disconnected
-[22:52:21] [Server thread/INFO]: EduardoKeith left the game
-[22:52:34] [Async Chat Thread - #5/INFO]: <rCesar_> abajo hay uno
-[22:52:38] [Server thread/INFO]: voned issued server command: /tpa itztsp
-[22:52:56] [Server thread/INFO]: Gianex has made the advancement [Diamonds!]
-[22:53:21] [Server thread/INFO]: rCesar_ tried to swim in lava
-[22:53:27] [Server thread/INFO]: rCesar_ issued server command: /tpa LeoG24_
-[22:53:28] [Server thread/INFO]: ItzTsp tried to swim in lava
+[23:04:18] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v7.4
+[23:04:18] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[23:04:21] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[23:04:22] [Server thread/INFO]: [floodgate] Took 3,283ms to boot Floodgate
+[23:04:22] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.5.0
+[23:04:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:04:22] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.0
+[23:04:23] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[23:04:24] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
+[23:04:24] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFloodgate skin listener registered[0;39m
+[23:04:25] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[23:04:25] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[23:04:25] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[23:04:25] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[23:04:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:04:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:04:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:04:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:04:25] [Server thread/INFO]: Preparing level "world"
+[23:04:25] [Server thread/ERROR]: Could not set generator for default world 'world': Plugin 'TerraformGenerator' does not exist
+[23:04:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:04:26] [Server thread/INFO]: Preparing spawn area: 0%
+[23:04:26] [Server thread/INFO]: Preparing spawn area: 0%
+[23:04:26] [Server thread/INFO]: Time elapsed: 602 ms
+[23:04:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:04:28] [Server thread/INFO]: Time elapsed: 1486 ms
+[23:04:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:04:28] [Server thread/INFO]: Time elapsed: 525 ms
+[23:04:28] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[23:04:28] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[23:04:28] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[23:04:29] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[23:04:29] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[23:04:31] [Server thread/INFO]: Running delayed init tasks
+[23:04:31] [Server thread/INFO]: Done (15.924s)! For help, type "help"
+[23:04:31] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[23:04:31] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[23:04:31] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[23:04:31] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[23:04:31] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[23:04:31] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[23:04:31] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[23:04:31] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[23:04:31] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[23:04:31] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[23:04:31] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.25
+[23:04:31] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[23:04:31] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[23:04:31] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[23:04:31] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[23:04:31] [Server thread/INFO]: Timings Reset
+[23:04:31] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[23:04:31] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[23:04:31] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[23:04:31] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[23:04:31] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[23:04:31] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[23:04:31] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[23:04:31] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.0[0;39m
+[23:04:31] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mad418e4[0;39m
+[23:04:31] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[23:04:31] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[23:04:31] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[23:04:31] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[23:05:12] [User Authenticator #1/INFO]: UUID of player Leenxy is 3cd529c8-47b2-3831-9b83-4783b7504b53
+[23:05:13] [Server thread/INFO]: Leenxy joined the game
+[23:05:13] [Server thread/INFO]: Leenxy[/127.183.225.72:45031] logged in with entity id 737 at ([world]-116.30000001192093, 10.0, -626.3003725570628)
+[23:05:16] [User Authenticator #1/INFO]: UUID of player LeoG24_ is bc34bb33-dda6-3834-bc3c-ee5dffc036c3
+[23:05:16] [Server thread/INFO]: LeoG24_ joined the game
+[23:05:16] [Server thread/INFO]: LeoG24_[/127.233.113.15:42683] logged in with entity id 914 at ([world]162.80986199106556, 11.0, 27.3025677914331)
+[23:05:19] [User Authenticator #1/INFO]: UUID of player EduardoKeith is 614014a7-d664-3694-ac6e-e88d6a358a90
+[23:05:19] [Server thread/INFO]: EduardoKeith joined the game
+[23:05:19] [Server thread/INFO]: EduardoKeith[/127.109.54.235:57797] logged in with entity id 1049 at ([world]-525.5640943635833, 66.0, -739.3000000119209)
+[23:05:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5052ms or 101 ticks behind
+[23:05:29] [Async Chat Thread - #0/INFO]: <EduardoKeith> que fue
+[23:05:31] [Server thread/INFO]: EduardoKeith lost connection: Disconnected
+[23:05:31] [Server thread/INFO]: EduardoKeith left the game
+[23:05:38] [User Authenticator #1/INFO]: UUID of player EduardoKeith is 614014a7-d664-3694-ac6e-e88d6a358a90
+[23:05:38] [Server thread/INFO]: EduardoKeith joined the game
+[23:05:38] [Server thread/INFO]: EduardoKeith[/127.109.54.235:58433] logged in with entity id 1291 at ([world]-525.5640943635833, 66.0, -739.3000000119209)
+[23:05:51] [User Authenticator #1/INFO]: UUID of player liljuz70 is 5973f352-51c7-35cb-ba62-17bd97e3e37c
+[23:05:51] [Server thread/INFO]: liljuz70 joined the game
+[23:05:51] [Server thread/INFO]: liljuz70[/127.185.87.55:57197] logged in with entity id 1595 at ([world]127.21265184639049, 11.0, -60.59231389227733)
+[23:05:56] [Async Chat Thread - #0/INFO]: <EduardoKeith> de la nada estaba en el vacio
+[23:06:06] [User Authenticator #1/INFO]: UUID of player voned is c1cf5321-2117-373e-b505-d2103ed9b507
+[23:06:06] [Server thread/INFO]: voned joined the game
+[23:06:06] [Server thread/INFO]: voned[/127.172.86.77:60675] logged in with entity id 1807 at ([world]75.50441067648096, 44.166109260938214, -124.69999998807909)
+[23:06:27] [Server thread/INFO]: voned has made the advancement [Acquire Hardware]
+[23:06:28] [User Authenticator #1/INFO]: UUID of player Gianex is 8162c036-68e4-3c01-a79c-dd1007938f2b
+[23:06:28] [Server thread/INFO]: Gianex joined the game
+[23:06:28] [Server thread/INFO]: Gianex[/127.99.88.48:54879] logged in with entity id 2077 at ([world]101.05777228509716, 15.024424088213681, 29.658717737668944)
+[23:07:22] [Server thread/INFO]: voned has made the advancement [Isn't It Iron Pick]
+[23:07:29] [Server thread/INFO]: voned has made the advancement [Suit Up]
+[23:07:53] [Server thread/INFO]: liljuz70 tried to swim in lava
+[23:07:54] [Server thread/INFO]: voned has made the advancement [Not Today, Thank You]
+[23:08:04] [Async Chat Thread - #1/INFO]: <liljuz70> safo de esta mierda
+[23:08:05] [Server thread/INFO]: liljuz70 lost connection: Disconnected
+[23:08:06] [Server thread/INFO]: liljuz70 left the game
+[23:10:16] [Async Chat Thread - #2/INFO]: <Leenxy> como cuando haces un portal but
+[23:10:26] [Async Chat Thread - #2/INFO]: <Leenxy> ves el otro portal que hiciste hace rato
+[23:10:57] [Server thread/WARN]: Leenxy was kicked for floating too long!
+[23:10:57] [Server thread/INFO]: Leenxy lost connection: Flying is not enabled on this server
+[23:10:57] [Server thread/INFO]: Leenxy left the game
+[23:11:03] [User Authenticator #2/INFO]: UUID of player Leenxy is 3cd529c8-47b2-3831-9b83-4783b7504b53
+[23:11:03] [Server thread/INFO]: Leenxy joined the game
+[23:11:03] [Server thread/INFO]: Leenxy[/127.183.225.72:39575] logged in with entity id 4190 at ([world_nether]-24.274598860597514, 52.5625, -139.34058264640973)
+[23:11:08] [Server thread/WARN]: Leenxy was kicked for floating too long!
+[23:11:08] [Server thread/INFO]: Leenxy lost connection: Flying is not enabled on this server
+[23:11:08] [Server thread/INFO]: Leenxy left the game
+[23:11:12] [User Authenticator #2/INFO]: UUID of player Leenxy is 3cd529c8-47b2-3831-9b83-4783b7504b53
+[23:11:12] [Server thread/INFO]: Leenxy joined the game
+[23:11:12] [Server thread/INFO]: Leenxy[/127.183.225.72:55683] logged in with entity id 4269 at ([world_nether]-24.274598860597514, 52.5625, -139.34058264640973)
+[23:11:25] [Async Chat Thread - #2/INFO]: <Leenxy> como cuando te expulsa por fly
+[23:12:08] [Async Chat Thread - #2/INFO]: <Gianex> entren a vc del server donde cesar siempre me lo prende
+[23:12:48] [Server thread/INFO]: Leenxy has made the advancement [Those Were the Days]
+[23:13:11] [Async Chat Thread - #3/INFO]: <EduardoKeith> full hierro
+[23:13:44] [Server thread/INFO]: Gianex lost connection: Disconnected
+[23:13:44] [Server thread/INFO]: Gianex left the game

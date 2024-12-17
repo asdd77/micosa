@@ -229,7 +229,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2024-12-17 22:41:35 +0000"
+      "cooked_porkchop": "2024-12-17 22:41:35 +0000",
+      "spider_eye": "2024-12-17 22:53:03 +0000"
     },
     "done": false
   },
@@ -699,7 +700,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2024-12-17 22:39:06 +0000"
+      "minecraft:spider": "2024-12-17 22:39:06 +0000",
+      "minecraft:cave_spider": "2024-12-17 22:52:57 +0000"
     },
     "done": false
   },
