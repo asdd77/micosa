@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-18 00:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-12-17 22:20:53 +0000"
@@ -1161,6 +1167,7 @@
     "criteria": {
       "minecraft:forest": "2024-12-17 22:19:00 +0000",
       "minecraft:mountains": "2024-12-17 23:22:15 +0000",
+      "minecraft:birch_forest": "2024-12-18 00:00:47 +0000",
       "minecraft:river": "2024-12-17 22:22:15 +0000",
       "minecraft:wooded_mountains": "2024-12-17 23:23:24 +0000",
       "minecraft:wooded_hills": "2024-12-17 22:39:05 +0000",
@@ -1250,6 +1257,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-17 22:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-18 00:02:06 +0000"
     },
     "done": true
   },
