@@ -253,3 +253,25 @@
 [21:39:26] [Server thread/INFO]: [Not Secure] [Server] h
 [21:39:36] [Server thread/INFO]: [Not Secure] [Server] h
 [21:39:39] [Server thread/INFO]: Whitelist is now turned on
+[21:49:21] [User Authenticator #0/INFO]: UUID of player EduardoKeith is 614014a7-d664-3694-ac6e-e88d6a358a90
+[21:49:21] [Server thread/INFO]: Disconnecting EduardoKeith (/127.210.193.35:54001): You are not whitelisted on this server!
+[21:49:21] [Server thread/INFO]: EduardoKeith (/127.210.193.35:54001) lost connection: You are not whitelisted on this server!
+[21:52:38] [User Authenticator #1/INFO]: UUID of player NotSpreen is abac4dd3-2ae9-3745-8442-4a47ecf621dc
+[21:52:38] [Server thread/INFO]: Disconnecting NotSpreen (/127.133.114.196:59943): You are not whitelisted on this server!
+[21:52:38] [Server thread/INFO]: NotSpreen (/127.133.114.196:59943) lost connection: You are not whitelisted on this server!
+[21:57:57] [User Authenticator #2/INFO]: UUID of player DJQC_YT is ef41c48f-98ea-3ab8-9144-69d6a6c916c4
+[21:57:57] [Server thread/INFO]: Disconnecting DJQC_YT (/127.76.123.132:54659): You are not whitelisted on this server!
+[21:57:57] [Server thread/INFO]: DJQC_YT (/127.76.123.132:54659) lost connection: You are not whitelisted on this server!
+[21:58:24] [User Authenticator #2/INFO]: UUID of player DJQC_YT is ef41c48f-98ea-3ab8-9144-69d6a6c916c4
+[21:58:24] [Server thread/INFO]: Disconnecting DJQC_YT (/127.76.123.132:52455): You are not whitelisted on this server!
+[21:58:24] [Server thread/INFO]: DJQC_YT (/127.76.123.132:52455) lost connection: You are not whitelisted on this server!
+[22:04:53] [User Authenticator #3/INFO]: UUID of player sCesar_ is 7e6fff1d-74ad-3b02-ab79-6e5c7f4b54ba
+[22:04:56] [Server thread/INFO]: sCesar_ joined the game
+[22:04:56] [Server thread/INFO]: sCesar_[/127.21.131.167:59231] logged in with entity id 346 at ([world]1123.0, 60.0, 1240.0)
+[22:05:16] [Server thread/INFO]: sCesar_ issued server command: /spawn
+[22:06:55] [User Authenticator #4/INFO]: UUID of player DJQC_YT is ef41c48f-98ea-3ab8-9144-69d6a6c916c4
+[22:06:55] [Server thread/INFO]: Disconnecting DJQC_YT (/127.76.123.132:49217): You are not whitelisted on this server!
+[22:06:55] [Server thread/INFO]: DJQC_YT (/127.76.123.132:49217) lost connection: You are not whitelisted on this server!
+[22:09:21] [Server thread/INFO]: ☀ [¡Alerta Cosmica! ] Un Meteorito Volcanico a aterrizado en las coordenadas X:161 Z:-399, ¿Que podria ser?
+[22:28:12] [Server thread/INFO]: [Not Secure] [Server] h
+[22:30:03] [Server thread/INFO]: Whitelist is now turned off
