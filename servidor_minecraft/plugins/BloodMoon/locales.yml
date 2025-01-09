@@ -1,0 +1,33 @@
+#Plugin version. Please do not tamper
+LocalesVersion: 0.8.1
+
+#Locales file. use $n to create a new line
+#Some entries can accept a parameter, which will be $d
+#You can completely silence a line by assigning "%void%"
+#You can use color codes. Refer to https://dev.bukkit.org/projects/color-chat for more info
+
+BloodMoonTitleBar: "§3§3§l☠ §4§l[ §5§l¡Run! §4§l¡The BloodMoon Has Arrived! ] §2§l🗡"
+DeathSuffix: "during a BloodMoon!"
+DaysBeforeBloodMoon: "§4§4§l☠ [ BloodMoon ] §6§lPronto.. en los próximos $d §e§ldias §9§lse dará inicio a la §4§lBloodMoon.. ☀"
+BloodMoonRightNow: "&ca BloodMoon is taking place right now!"
+BloodMoonTomorrow: "§4§4§l☠ [ BloodMoon ] §5§lmuy pronto resurgire, y no descansaré hasta verlos morir.."
+BloodMoonTonight: "§4§4§l☠ [ BloodMoon ] La Noche me pertenece, al igual que sus §2§lvidas.. §9§lHuyan"
+BloodMoonWarningTitle: "§e§e§l 🪓 [ Warning ] §4La Luna de Sangre a iniciado, encuentra §2§lrefugio §4lo más rápido posible.."
+BloodMoonWarningBody: ""
+BloodMoonEndingMessage: "§a§a§l☀ [ Congratulations ] §5§lLa Luna de Sangre a cesado. §4§lPor ahora.. ☠"
+DyingResultsInInventoryLoss: "&4&lDying during a BloodMoon results in complete deletion of inventory"
+DyingResultsInExperienceLoss: "&4&lDying during a BloodMoon resets your experience to zero"
+PluginReloaded: "&aPlugin has been reloaded successfully"
+NoBloodMoonInWorld: "&oThere are no BloodMoon in you current world"
+CommandNotFound: "&cCommand&o&f $d &r&cdoes not exist!"
+NoPermission: "&cYou do not have the permission to do that!"
+AllowedCommands: "&6Supported commands are: &f&o$d"
+BedNotAllowed: "§4§4§l☠ [ BloodMoon ] §5§lNo te libraras tan facil de mi solo durmiendo.."
+WorldIsPermanentBloodMoon: "&cThis whole world is permanently in a BloodMoon!"
+CannotStopBloodMoon: "&cYou cannot stop the BloodMoon in this world!"
+GeneralError: "&c&oThere was an error processing your request"
+ZombieBossSpawned: "§4§4§l☠ [ BloodMoon ] §5§lVamos $b, §4§lACABALOS!!"
+ZombieBossName: "Guardian de la Noche"
+BossSlain: "§4§4§l☠ [ BloodMoon ] §5§lUna lastima para $p, §4§lel $b fue demasiado poderoso para el, Hahaha.."
+HordeArrived: "§4§4§l☠ [ BloodMoon ] §5§lQue desafortunado eres §2§l$p, §4§ltu serás el siguiente en morir.."
+NoPlayerOfName: ""
