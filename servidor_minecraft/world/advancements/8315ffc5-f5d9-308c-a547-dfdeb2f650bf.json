@@ -62,6 +62,7 @@
       "minecraft:sparse_jungle": "2025-01-08 23:55:43 +0000",
       "minecraft:river": "2025-01-08 23:48:22 +0000",
       "minecraft:lush_caves": "2025-01-09 00:03:06 +0000",
+      "minecraft:dripstone_caves": "2025-01-10 02:08:42 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-09 00:46:25 +0000",
       "minecraft:desert": "2025-01-08 22:35:56 +0000",
       "minecraft:jungle": "2025-01-08 23:48:26 +0000",
@@ -608,6 +609,7 @@
       "minecraft:skeleton": "2025-01-08 23:13:12 +0000",
       "minecraft:vindicator": "2025-01-08 23:32:20 +0000",
       "minecraft:enderman": "2025-01-08 23:47:56 +0000",
+      "minecraft:silverfish": "2025-01-10 02:10:42 +0000",
       "minecraft:witch": "2025-01-10 01:43:40 +0000",
       "minecraft:spider": "2025-01-08 22:47:27 +0000",
       "minecraft:wither_skeleton": "2025-01-08 23:20:29 +0000",
@@ -2404,73 +2406,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-10 02:00:45 +0000"
+      "log_spam_fixer": "2025-01-10 02:10:45 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-10 02:00:45 +0000"
+      "log_spam_fixer": "2025-01-10 02:10:45 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-10 02:00:45 +0000"
+      "log_spam_fixer": "2025-01-10 02:10:45 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-10 02:00:45 +0000"
+      "log_spam_fixer": "2025-01-10 02:10:45 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-10 02:00:45 +0000"
+      "log_spam_fixer": "2025-01-10 02:10:45 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-10 02:00:45 +0000"
+      "log_spam_fixer": "2025-01-10 02:10:45 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-10 02:00:45 +0000"
+      "log_spam_fixer": "2025-01-10 02:10:45 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-10 02:00:45 +0000"
+      "log_spam_fixer": "2025-01-10 02:10:45 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-10 02:00:45 +0000"
+      "log_spam_fixer": "2025-01-10 02:10:45 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-10 02:00:45 +0000"
+      "log_spam_fixer": "2025-01-10 02:10:45 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-10 02:00:45 +0000"
+      "log_spam_fixer": "2025-01-10 02:10:45 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-10 02:00:45 +0000"
+      "log_spam_fixer": "2025-01-10 02:10:45 +0000"
     },
     "done": false
   },
@@ -2510,6 +2512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-10 02:03:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-01-10 01:41:20 +0000"
@@ -2525,12 +2533,6 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-01-10 01:40:07 +0000"
-    },
-    "done": true
-  },
-  "bracken:technical/dimension_travel/enter/overworld": {
-    "criteria": {
-      "changed_dimension": "2025-01-10 01:43:48 +0000"
     },
     "done": true
   },
@@ -2684,9 +2686,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-10 02:03:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-01-10 01:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-10 02:03:57 +0000"
     },
     "done": true
   },
@@ -2699,6 +2713,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-01-10 01:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-10 02:02:44 +0000"
     },
     "done": true
   },
