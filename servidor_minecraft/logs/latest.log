@@ -1089,3 +1089,360 @@ java.lang.NullPointerException: Cannot invoke "org.geysermc.geyser.inventory.ite
 [01:50:35] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> HIJO DE PERRA
 [01:50:39] [Server thread/INFO]: Command stop has been successfully ran in world world
 [01:50:44] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> a
+[01:50:47] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> ggez
+[01:50:56] [Async Chat Thread - #10/INFO]: [Not Secure] <.ItzzTsp> alch
+[01:50:58] [localSession-7-3/INFO]: [Geyser-Spigot] GlichBoy8191 has disconnected from the Java server because of Bedrock client timed out
+[01:50:58] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .GlichBoy8191 disconnected
+[01:50:58] [Server thread/INFO]: .GlichBoy8191 lost connection: Disconnected
+[01:50:58] [Server thread/INFO]: .GlichBoy8191 left the game
+[01:51:16] [Async Chat Thread - #10/INFO]: [Not Secure] <.ItzzTsp> voy a tapar una zona de la mina en si y me llevo las antorchas que habían
+[01:51:22] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username GlichBoy8191
+[01:51:22] [localSession-7-4/INFO]: [Geyser-Spigot] GlichBoy8191 (logged in as: GlichBoy8191) has connected to the Java server
+[01:51:22] [Server thread/INFO]: [floodgate] Floodgate player logged in as .GlichBoy8191 joined (UUID: 00000000-0000-0000-0009-01fce6e603ca)
+[01:51:22] [Server thread/INFO]: .GlichBoy8191 joined the game
+[01:51:22] [Server thread/INFO]: .GlichBoy8191[/127.0.0.1:0] logged in with entity id 8057 at ([world]1123.0, 60.0, 1240.0)
+[01:51:22] [Server thread/WARN]: [LoginSecurity] Player was logged in prematurely while still saving location
+[01:51:25] [Async Chat Thread - #10/INFO]: [Not Secure] <.ItzzTsp> pq coño no se craftean las mierdas
+[01:51:39] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> mario
+[01:51:40] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> ven
+[01:51:41] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> q
+[01:51:44] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> necesito que me ayudes
+[01:51:48] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> tengo un chingo de pociones
+[01:51:49] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> ven
+[01:51:55] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> tsp andas en base?
+[01:51:57] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> pa guardar
+[01:52:00] [Async Chat Thread - #10/INFO]: [Not Secure] <.ItzzTsp> si
+[01:52:01] [Server thread/INFO]: .GlichBoy8191 issued server command: /back
+[01:52:04] [Server thread/INFO]: TheMario_SM issued server command: /tpa .ItzzTsp
+[01:52:06] [Async Chat Thread - #11/INFO]: [Not Secure] <TheMario_SM> ahorita void
+[01:52:09] [Server thread/INFO]: .ItzzTsp issued server command: /tpaccept
+[01:52:13] [Async Chat Thread - #11/INFO]: [Not Secure] <.GlichBoy8191> GGGGG SALIRME Y ENTRAR ME QUITO EL BACK
+[01:52:18] [Async Chat Thread - #11/INFO]: [Not Secure] <TheMario_SM> XDDD
+[01:52:21] [Server thread/INFO]: [Not Secure] [Server] hago portales custom a las dimensiones?
+[01:52:31] [Async Chat Thread - #11/INFO]: [Not Secure] <Korite> pues si w
+[01:52:31] [Async Chat Thread - #11/INFO]: [Not Secure] <TheMario_SM> NO
+[01:52:32] [Async Chat Thread - #11/INFO]: [Not Secure] <.ItzzTsp> ok
+[01:52:36] [Server thread/INFO]: [Not Secure] [Server] vale
+[01:52:37] [Async Chat Thread - #11/INFO]: [Not Secure] <.GlichBoy8191> sisisi
+[01:52:37] [Async Chat Thread - #11/INFO]: [Not Secure] <.ItzzTsp> MENRIRA
+[01:52:38] [Async Chat Thread - #11/INFO]: [Not Secure] <TheMario_SM> digo si
+[01:52:42] [Async Chat Thread - #11/INFO]: [Not Secure] <.ItzzTsp> digo si
+[01:52:44] [Async Chat Thread - #11/INFO]: [Not Secure] <TheMario_SM> uwu
+[01:52:56] [Server thread/INFO]: .GlichBoy8191 issued server command: /tpa Korite
+[01:52:58] [Server thread/INFO]: [Not Secure] [Server] que podria añadir al serverrr
+[01:53:00] [Server thread/INFO]: Korite issued server command: /tpaccept
+[01:53:01] [Server thread/INFO]: [Not Secure] [Server] ando viendo
+[01:53:05] [Async Chat Thread - #11/INFO]: [Not Secure] <TheMario_SM> sex
+[01:53:07] [Server thread/INFO]: .GlichBoy8191 was slain by Korite
+[01:53:10] [Async Chat Thread - #11/INFO]: [Not Secure] <Korite> ya
+[01:53:11] [Async Chat Thread - #11/INFO]: [Not Secure] <Korite> hazte tp
+[01:53:20] [Async Chat Thread - #11/INFO]: [Not Secure] <.GlichBoy8191> asi no funciona baboso
+[01:53:22] [Server thread/INFO]: .GlichBoy8191 issued server command: /back
+[01:53:22] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 421.1459,-14.085990000000002,-3376.9984
+[01:53:22] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 421.1459,-14.085990000000002,-3376.9984
+[01:53:22] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 421.1459,-14.085990000000002,-3376.9984
+[01:53:22] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 421.1459,-14.085990000000002,-3376.9984
+[01:53:22] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 421.1459,-14.085990000000002,-3376.9984
+[01:53:22] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 421.1459,-14.085990000000002,-3376.9984
+[01:53:22] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 421.1459,-14.085990000000002,-3376.9984
+[01:53:22] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 421.1459,-14.085990000000002,-3376.9984
+[01:53:22] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 421.1459,-14.085990000000002,-3376.9984
+[01:53:22] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 421.1459,-14.085990000000002,-3376.9984
+[01:53:22] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 421.1459,-14.085990000000002,-3376.9984
+[01:53:22] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 421.1459,-14.085990000000002,-3376.9984
+[01:53:22] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 421.1459,-14.085990000000002,-3376.9984
+[01:53:22] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 421.1459,-14.085990000000002,-3376.9984
+[01:53:22] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 421.1459,-14.085990000000002,-3376.9984
+[01:53:22] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 421.1459,-14.085990000000002,-3376.9984
+[01:53:22] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 421.1459,-14.085990000000002,-3376.9984
+[01:53:22] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 421.1459,-14.085990000000002,-3376.9984
+[01:53:22] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 421.1459,-14.085990000000002,-3376.9984
+[01:53:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
+pobre glichy<--[HERE]
+[01:53:31] [Server thread/INFO]: Sign Spy - Location: x: 343, y: -2, z: 596, world: world
+[01:53:31] [Server thread/INFO]: Player: TheMario_SM
+[01:53:31] [Server thread/INFO]: Lines - 1: [RP] - 2: PREUBA
+[01:53:31] [Server thread/INFO]: Lines - 3:  - 4: 
+[01:53:34] [Server thread/INFO]: TheMario_SM issued server command: /rp
+[01:53:36] [Server thread/INFO]: TheMario_SM issued server command: /rp tp
+[01:53:38] [Server thread/INFO]: TheMario_SM issued server command: /rp home
+[01:53:40] [Server thread/INFO]: [Not Secure] [Server] pasen sugerencias para el sv
+[01:53:44] [Async Chat Thread - #11/INFO]: [Not Secure] <TheMario_SM> sex update
+[01:53:44] [Server thread/INFO]: [Not Secure] [Server] ando viendo opciones
+[01:53:48] [Server thread/INFO]: [Not Secure] [Server] luego
+[01:53:48] [Server thread/INFO]: TheMario_SM issued server command: /tpa .GlichBoy8191
+[01:53:50] [Async Chat Thread - #11/INFO]: [Not Secure] <Korite> mario cuando vienes
+[01:53:52] [Async Chat Thread - #11/INFO]: [Not Secure] <.ItzzTsp> wue las antorchas se puedan craftear
+[01:53:54] [Async Chat Thread - #10/INFO]: [Not Secure] <.ItzzTsp> gg
+[01:53:55] [Server thread/INFO]: TheMario_SM issued server command: /tpa Korite
+[01:53:55] [Server thread/INFO]: There are 4 of a max of 20 players online: TheMario_SM, .ItzzTsp, Korite, .GlichBoy8191
+[01:53:58] [Server thread/INFO]: Korite issued server command: /tpaccept
+[01:54:02] [Server thread/INFO]: Korite issued server command: /tpaccept
+[01:54:02] [Server thread/INFO]: Korite issued server command: /tpaccept
+[01:54:04] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> nux acepta coño
+[01:54:05] [Server thread/INFO]: .GlichBoy8191 issued server command: /tpaccept
+[01:54:05] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 9.98109999999997,0.0,-1.2800000000002
+[01:54:08] [Server thread/INFO]: Korite issued server command: /tpaccept
+[01:54:11] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> no tengo
+[01:54:12] [Server thread/INFO]: .GlichBoy8191 was slain by TheMario_SM using [[ La Hacha Mitica ]]
+[01:54:12] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> tps
+[01:54:15] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> XDD
+[01:54:16] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> vuelve a mandar
+[01:54:17] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> XDDD
+[01:54:24] [Async Chat Thread - #10/INFO]: [Not Secure] <.GlichBoy8191> PORQUE HAGSAHSAS
+[01:54:26] [Server thread/INFO]: .GlichBoy8191 issued server command: /back
+[01:54:26] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 387.4200999999998,-15.0,-3367.9602999999997
+[01:54:26] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 387.4200999999998,-15.0,-3367.9602999999997
+[01:54:26] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 387.4200999999998,-15.0,-3367.9602999999997
+[01:54:26] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 387.4200999999998,-15.0,-3367.9602999999997
+[01:54:26] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 387.4200999999998,-15.0,-3367.9602999999997
+[01:54:26] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 387.4200999999998,-15.0,-3367.9602999999997
+[01:54:26] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 387.4200999999998,-15.0,-3367.9602999999997
+[01:54:26] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 387.4200999999998,-15.0,-3367.9602999999997
+[01:54:26] [Server thread/WARN]: .GlichBoy8191 moved too quickly! 387.4200999999998,-15.0,-3367.9602999999997
+[01:54:36] [Server thread/INFO]: TheMario_SM issued server command: /tpa Korite
+[01:54:39] [Server thread/INFO]: Korite issued server command: /tpaccept
+[01:54:42] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> TEN
+[01:54:58] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> mario
+[01:55:01] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> no las tires
+[01:55:03] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> nos sirven
+[01:55:07] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> por si vienen otro team
+[01:55:09] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> baboso
+[01:55:11] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> AAA
+[01:55:13] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> XD
+[01:55:37] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> ESPERA
+[01:55:41] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport
+[01:55:43] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport prueba
+[01:55:50] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport
+[01:55:52] [Server thread/INFO]: TheMario_SM issued server command: /home
+[01:55:54] [Server thread/INFO]: TheMario_SM issued server command: /rp
+[01:56:00] [Server thread/INFO]: .GlichBoy8191 issued server command: /back
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:00] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -405.6694,26.0,3362.99
+[01:56:17] [Server thread/INFO]: TheMario_SM issued server command: /rp
+[01:56:19] [Server thread/INFO]: TheMario_SM issued server command: /rp
+[01:56:24] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> COMO VOY A MI RP
+[01:56:27] [Async Chat Thread - #10/INFO]: [Not Secure] <.GlichBoy8191> felicidad tengo lo mio\
+[01:56:27] [Server thread/INFO]: TheMario_SM issued server command: /rp 2
+[01:56:32] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> ./rp
+[01:56:34] [Server thread/INFO]: TheMario_SM issued server command: /tpa .ItzzTsp
+[01:56:35] [Server thread/INFO]: TheMario_SM issued server command: /rp
+[01:56:37] [Async Chat Thread - #11/INFO]: [Not Secure] <TheMario_SM> eso hago w
+[01:56:49] [Server thread/INFO]: .ItzzTsp issued server command: /tpaccept
+[01:57:01] [Async Chat Thread - #11/INFO]: [Not Secure] <.ItzzTsp> yaw
+[01:57:32] [Async Chat Thread - #11/INFO]: [Not Secure] <Korite> mario deja esas
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -23.179449999999974,0.0,-0.906099999999924
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -22.903850000000034,0.0,-0.8536999999998898
+[01:57:34] [Server thread/WARN]: .GlichBoy8191 moved too quickly! -9.448199999999929,1.4200000000000017,-2.9914000000001124
+[01:57:35] [Async Chat Thread - #11/INFO]: [Not Secure] <Korite> y ven por mas
+[01:57:38] [Async Chat Thread - #11/INFO]: [Not Secure] <TheMario_SM> a eso iba
+[01:57:44] [Async Chat Thread - #11/INFO]: [Not Secure] <Korite> dejalas en mi cofre
+[01:57:48] [Async Chat Thread - #11/INFO]: [Not Secure] <Korite> luego las acomodo
+[01:57:52] [Async Chat Thread - #11/INFO]: [Not Secure] <Korite> en algun almacen
+[01:57:53] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> no encuentro tu base
+[01:57:55] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> SAJDJKSAD
+[01:58:01] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> es arriba de la tuya
+[01:58:06] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> hay escaleras al lado
+[01:58:10] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> TAMPOCO ENCUENTRO LA MIA
+[01:58:46] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> send tp mario
+[01:58:55] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> WAIT
+[01:59:13] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> a ya vi x
+[01:59:41] [Server thread/INFO]: Sign Spy - Location: x: 343, y: -2, z: 596, world: world
+[01:59:41] [Server thread/INFO]: Player: TheMario_SM
+[01:59:41] [Server thread/INFO]: Lines - 1: [RP]: Done. - 2: PREUBA
+[01:59:41] [Server thread/INFO]: Lines - 3:  - 4: 
+[01:59:50] [Async Chat Thread - #10/INFO]: [Not Secure] <.ItzzTsp> mi base tiene forma de pene pequeño
+[01:59:51] [Server thread/INFO]: Sign Spy - Location: x: 342, y: -1, z: 593, world: world
+[01:59:51] [Server thread/INFO]: Player: TheMario_SM
+[01:59:51] [Server thread/INFO]: Lines - 1: cosas the - 2: mario
+[01:59:51] [Server thread/INFO]: Lines - 3:  - 4: 
+[01:59:58] [Async Chat Thread - #10/INFO]: [Not Secure] <.ItzzTsp> sangreluna
+[02:00:14] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> como sabes como es un pene pequeño
+[02:00:24] [Server thread/INFO]: TheMario_SM issued server command: /tpa Korite
+[02:00:25] [Async Chat Thread - #10/INFO]: [Not Secure] <.ItzzTsp> mientras minaba arriba
+[02:00:28] [Server thread/INFO]: Korite issued server command: /tpaccept
+[02:00:33] [Async Chat Thread - #10/INFO]: [Not Secure] <.ItzzTsp> me anotaba donde iba s poner cads cosa
+[02:00:33] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> pasa todas
+[02:00:45] [Server thread/INFO]: ☀ [¡Alerta Cosmica! ] Un Meteorito Volcanico a aterrizado en las coordenadas X:-91 Z:-136, ¿Que podria ser?
+[02:00:46] [Async Chat Thread - #10/INFO]: [Not Secure] <Korite> ven
+[02:00:49] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> gracias perra
