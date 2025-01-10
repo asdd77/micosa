@@ -51,6 +51,59 @@ aldeaimrandom:
   candelete: true
   canpurge: true
   tppoint: 379,64,690,0.0,0.0
+PREUBA:
+  name: PREUBA
+  lastvisit: 10/01/2025
+  admins: []
+  members: []
+  leaders:
+  - 4fbc7bf1-ecc0-3ede-ac20-90acfbd824d1@TheMario_SM
+  priority: 0
+  welcome: ''
+  world: world
+  maxX: 342
+  maxZ: 597
+  minX: 340
+  minZ: 595
+  maxY: 320
+  minY: -64
+  value: 0.0
+  flags:
+    can-grow: true
+    leaves-decay: false
+    allow-effects: true
+    door: false
+    teleport: true
+    allow-spawner: false
+    mob-loot: false
+    button: false
+    fire: false
+    flow: true
+    iceform-player: true
+    allow-home: false
+    chest: false
+    iceform-world: true
+    smart-door: true
+    fishing: false
+    use-potions: true
+    lever: false
+    pvp: false
+    spawn-animals: true
+    passives: false
+    press-plate: false
+    minecart: false
+    ender-chest: false
+    build: false
+    allow-fly: true
+    gravity: true
+    flow-damage: false
+    spawn-monsters: true
+    allow-potions: true
+    block-transform: true
+    redstone: false
+  candelete: true
+  canpurge: true
+  tppoint: ''
 vacasagust:
   name: vacasagust
   lastvisit: 09/01/2025
