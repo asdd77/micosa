@@ -754,3 +754,228 @@ whitelist ord<--[HERE]
 [23:10:56] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.2883800000001,-68.0,-657.2950099999999
 [23:10:56] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.2883800000001,-68.0,-657.2950099999999
 [23:10:56] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.2883800000001,-68.0,-657.2950099999999
+[23:11:09] [Async Chat Thread - #10/INFO]: [Not Secure] <.ItzzTsp> LIkE SI EL /SETHOME DICE WUE NO EXISTE
+[23:11:20] [Async Chat Thread - #10/INFO]: [Not Secure] <sCesar_> ./rp tp name
+[23:11:21] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> es /rp teleport
+[23:11:25] [Async Chat Thread - #10/INFO]: [Not Secure] <.ItzzTsp> aver
+[23:11:32] [Server thread/INFO]: .ItzzTsp issued server command: /rp tp test
+[23:11:41] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> se me olvido llevar comida xd
+[23:11:42] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .ItzzTsp disconnected
+[23:11:42] [localSession-7-1/INFO]: [Geyser-Spigot] ItzzTsp has disconnected from the Java server because of Bedrock client timed out
+[23:11:42] [Server thread/INFO]: .ItzzTsp lost connection: Disconnected
+[23:11:42] [Server thread/INFO]: .ItzzTsp left the game
+[23:11:54] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> cesar ando haciendo la mision de sky
+[23:12:01] [Async Chat Thread - #10/INFO]: [Not Secure] <sCesar_> aver
+[23:12:06] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> no tengo bloques
+[23:12:07] [Server thread/INFO]: sCesar_ issued server command: /tpa TheMario_SM
+[23:12:07] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> es el pedo
+[23:12:08] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> XD
+[23:12:09] [Server thread/INFO]: TheMario_SM issued server command: /tpaccept
+[23:12:14] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> segun y tengo q subir
+[23:12:19] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ItzzTsp
+[23:12:19] [localSession-7-2/INFO]: [Geyser-Spigot] ItzzTsp (logged in as: ItzzTsp) has connected to the Java server
+[23:12:19] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ItzzTsp joined (UUID: 00000000-0000-0000-0009-01f32f32091d)
+[23:12:19] [Server thread/INFO]: .ItzzTsp joined the game
+[23:12:19] [Server thread/INFO]: .ItzzTsp[/127.0.0.1:0] logged in with entity id 9029 at ([world]1123.0, 60.0, 1240.0)
+[23:12:19] [Server thread/WARN]: [LoginSecurity] Player was logged in prematurely while still saving location
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -779.0295069202878,14.0,-655.8700379758543
+[23:12:21] [Async Chat Thread - #10/INFO]: [Not Secure] <sCesar_> en la tienda puse para comprar andan baratos
+[23:12:25] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> e
+[23:12:30] [Server thread/INFO]: TheMario_SM issued server command: /tpa .ItzzTsp
+[23:12:38] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> XD
+[23:12:46] [Server thread/INFO]: sCesar_ issued server command: /back
+[23:12:47] [Async Chat Thread - #10/INFO]: [Not Secure] <.ItzzTsp> ME CRASHEO EL JUEGO
+[23:12:54] [Async Chat Thread - #10/INFO]: [Not Secure] <sCesar_> brutal
+[23:12:54] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> me duele el pinche pecho alv
+[23:13:03] [Server thread/INFO]: TheMario_SM issued server command: /tpa .ItzzTsp
+[23:13:03] [Server thread/INFO]: .ItzzTsp issued server command: /rp tp omero
+[23:13:07] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> sp acepta carcajo
+[23:13:09] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> tsp
+[23:13:22] [Async Chat Thread - #10/INFO]: [Not Secure] <.ItzzTsp> Man que caray
+[23:13:26] [Async Chat Thread - #10/INFO]: [Not Secure] <.ItzzTsp> caray
+[23:13:29] [Async Chat Thread - #9/INFO]: [Not Secure] <.ItzzTsp> wue carajo
+[23:13:33] [Async Chat Thread - #9/INFO]: [Not Secure] <.ItzzTsp> donde coño estoy
+[23:13:46] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> el rp te lleva hasta la tierra xd
+[23:13:50] [Async Chat Thread - #9/INFO]: [Not Secure] <.ItzzTsp> hice /rp tp y me llevo a una aldea toda explotada
+[23:13:53] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> ahi es
+[23:13:55] [Async Chat Thread - #9/INFO]: [Not Secure] <.ItzzTsp> tio que mierda
+[23:13:58] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> esta bajo la alde
+[23:13:59] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> XDD
+[23:14:06] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> E
+[23:14:08] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> RESET
+[23:14:09] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> ?
+[23:14:13] [Async Chat Thread - #9/INFO]: [Not Secure] <.ItzzTsp> no voy a bajar todo eso
+[23:14:50] [Async Chat Thread - #10/INFO]: [Not Secure] <sCesar_> listo mapa del eventacos hecho
+[23:14:53] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> con 2 stacks seguro ya sobra
+[23:14:56] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> pa subir
+[23:14:57] [Async Chat Thread - #9/INFO]: [Not Secure] <sCesar_> cuando llegue la people lo abro
+[23:15:07] [Server thread/INFO]: sCesar_ issued server command: /spawn
+[23:15:09] [Server thread/WARN]: .ItzzTsp moved wrongly!
+[23:15:20] [Async Chat Thread - #9/INFO]: [Not Secure] <.ItzzTsp> nux de mierda
+[23:15:34] [Server thread/INFO]: sCesar_ issued server command: /tp TheMario_SM
+[23:15:34] [Server thread/INFO]: [sCesar_: Teleported sCesar_ to TheMario_SM]
+[23:15:36] [Async Chat Thread - #9/INFO]: [Not Secure] <.ItzzTsp> le saque la deco que nadie presta atencion
+[23:15:36] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> CESAR
+[23:15:46] [Async Chat Thread - #9/INFO]: [Not Secure] <.ItzzTsp> y ahora viene con que es comunista
+[23:15:48] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> XD
+[23:15:52] [Async Chat Thread - #9/INFO]: [Not Secure] <.ItzzTsp> en plan chupame tods la polla
+[23:16:05] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> AHORA SI TIO
+[23:16:28] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> cesar hay nuevas misiones?
+[23:16:36] [Async Chat Thread - #9/INFO]: [Not Secure] <sCesar_> si de hecho mas faciles
+[23:16:42] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> despues las hare
+[23:16:51] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> hare cada uno de ellas
+[23:17:22] [Server thread/INFO]: .ItzzTsp issued server command: /me fede p dice
+[23:17:22] [Async Chat Thread - #9/INFO]: [Not Secure] * .ItzzTsp fede p dice
+[23:17:31] [Server thread/INFO]: sCesar_ issued server command: /say h
+[23:17:31] [Async Chat Thread - #10/INFO]: [Not Secure] [sCesar_] h
+[23:17:40] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> esto va demorar
+[23:17:55] [Async Chat Thread - #10/INFO]: [Not Secure] <.ItzzTsp> q
+[23:17:58] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> q
+[23:17:59] [Server thread/INFO]: TheMario_SM has made the advancement [Castles in the Sky]
+[23:17:59] [Server thread/WARN]: [Spawntp] There is no spawnpoint set for world world_bracken_the_faewild for player TheMario_SM
+[23:18:00] [Async Chat Thread - #9/INFO]: [Not Secure] <.ItzzTsp> denormiar
+[23:18:05] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> TIO DDONDE ESTOY
+[23:18:25] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> OYE CESAR
+[23:18:30] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> e
+[23:18:33] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> me cai
+[23:18:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+q<--[HERE]
+[23:18:33] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> JKSADJASDJ
+[23:18:35] [Server thread/INFO]: [Not Secure] [Server] q
+[23:18:42] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> soy un pendejo
+[23:18:44] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> te iba preguntar algo
+[23:18:48] [Server thread/INFO]: sCesar_ issued server command: /tp TheMario_SM
+[23:18:48] [Server thread/INFO]: [sCesar_: Teleported sCesar_ to TheMario_SM]
+[23:18:50] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> eee
+[23:18:57] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> que hay mas arriba del sky?
+[23:18:59] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> o no hay nada
+[23:19:03] [Async Chat Thread - #9/INFO]: [Not Secure] <sCesar_> si hay
+[23:19:06] [Async Chat Thread - #9/INFO]: [Not Secure] <TheMario_SM> end?
+[23:19:08] [Async Chat Thread - #9/INFO]: [Not Secure] <sCesar_> la dimensión del aether
+[23:19:12] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> a
+[23:19:22] [Async Chat Thread - #10/INFO]: [Not Secure] <sCesar_> osea, recuerdas esto?
+[23:19:35] [Async Chat Thread - #10/INFO]: [Not Secure] <.ItzzTsp> man
+[23:19:40] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> e
+[23:19:43] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> no funciona
+[23:19:45] [Async Chat Thread - #10/INFO]: [Not Secure] <sCesar_> está dimensión
+[23:19:48] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> si
+[23:19:49] [Async Chat Thread - #10/INFO]: [Not Secure] <sCesar_> si, mira
+[23:19:52] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> avr
+[23:19:53] [Server thread/INFO]: sCesar_ issued server command: /spawn
+[23:19:53] [Async Chat Thread - #10/INFO]: [Not Secure] <.ItzzTsp> con el rp si alguien pasa por la tierra por nuestros rp te re avisa
+[23:19:56] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> q
+[23:20:04] [Async Chat Thread - #10/INFO]: [Not Secure] <.ItzzTsp> en plan nos exponemos
+[23:20:08] [Async Chat Thread - #10/INFO]: [Not Secure] <.ItzzTsp> eso es el diablo
+[23:20:10] [Server thread/INFO]: sCesar_ issued server command: /tp TheMario_SM
+[23:20:10] [Server thread/INFO]: [sCesar_: Teleported sCesar_ to TheMario_SM]
+[23:20:13] [Async Chat Thread - #10/INFO]: [Not Secure] <sCesar_> q
+[23:20:15] [Async Chat Thread - #10/INFO]: [Not Secure] <sCesar_> metete
+[23:20:16] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> no funciona
+[23:20:22] [Async Chat Thread - #10/INFO]: [Not Secure] <sCesar_> son 10 segundos
+[23:20:37] [Server thread/INFO]: sCesar_ issued server command: /tp TheMario_SM 100 400 200
+[23:20:37] [Server thread/INFO]: [sCesar_: Teleported TheMario_SM to 100.500000, 400.000000, 200.500000]
+[23:20:38] [Server thread/WARN]: [Spawntp] There is no spawnpoint set for world world_bracken_the_faewild for player TheMario_SM
+[23:20:46] [Async Chat Thread - #10/INFO]: [Not Secure] <TheMario_SM> Aah
+[23:20:51] [Server thread/INFO]: sCesar_ issued server command: /tp TheMario_SM
+[23:20:51] [Server thread/INFO]: [sCesar_: Teleported sCesar_ to TheMario_SM]
+[23:20:59] [Async Chat Thread - #10/INFO]: [Not Secure] <sCesar_> sube
