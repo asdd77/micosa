@@ -265,3 +265,92 @@ whitelist ord<--[HERE]
 [22:38:16] [Server thread/WARN]: Failed to load offers: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:reinforced_deesplate
 [22:38:52] [Server thread/INFO]: Villager Villager['Librarian'/793, uuid='29a95c5e-da50-41cc-ba32-356d47a5ae31', l='ServerLevel[world]', x=1118.50, y=60.50, z=1221.50, cpos=[69, 76], tl=722, v=true] died, message: 'Librarian was slain by sCesar_'
 [22:39:44] [Server thread/WARN]: Failed to load offers: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:reinforced_deesplate
+[22:41:04] [Server thread/INFO]: Villager Villager['Librarian'/910, uuid='29afed26-2bb1-4a46-91b3-e41522f5423f', l='ServerLevel[world]', x=1118.50, y=60.50, z=1221.50, cpos=[69, 76], tl=1596, v=true] died, message: 'Librarian was slain by sCesar_'
+[22:41:05] [Server thread/WARN]: Failed to load offers: No key id in MapLike[{count:1,d:"reinforced_deepslate"}]
+[22:42:01] [Server thread/INFO]: Villager Villager['Librarian'/1030, uuid='9f29b12c-2abc-48d2-a68c-38b33b4dffc2', l='ServerLevel[world]', x=1118.50, y=60.50, z=1221.50, cpos=[69, 76], tl=1117, v=true] died, message: 'Librarian was slain by sCesar_'
+[22:42:40] [Server thread/INFO]: Villager Villager['Cartographer'/2, uuid='92774418-308e-453d-8920-499282fccb0e', l='ServerLevel[world]', x=1114.50, y=60.50, z=1221.50, cpos=[69, 76], tl=524038, v=true] died, message: 'Cartographer was slain by sCesar_'
+[22:43:44] [Server thread/INFO]: Villager Villager['Juanelo'/5, uuid='46e9c72e-761f-433f-9e38-bc003fb855b3', l='ServerLevel[world]', x=1127.70, y=60.00, z=1219.70, cpos=[70, 76], tl=143389, v=true] died, message: 'Juanelo was slain by sCesar_'
+[22:43:44] [Server thread/INFO]: Named entity Villager['Juanelo'/5, uuid='46e9c72e-761f-433f-9e38-bc003fb855b3', l='ServerLevel[world]', x=1127.70, y=60.00, z=1219.70, cpos=[70, 76], tl=143389, v=true] died: Juanelo was slain by sCesar_
+[22:44:21] [Server thread/INFO]: Villager Villager['Juanelo'/1271, uuid='d16ed182-67d4-4130-8bcb-94ae740c702e', l='ServerLevel[world]', x=1127.50, y=60.50, z=1219.50, cpos=[70, 76], tl=564, v=true] died, message: 'Juanelo was slain by sCesar_'
+[22:44:21] [Server thread/INFO]: Named entity Villager['Juanelo'/1271, uuid='d16ed182-67d4-4130-8bcb-94ae740c702e', l='ServerLevel[world]', x=1127.50, y=60.50, z=1219.50, cpos=[70, 76], tl=564, v=true] died: Juanelo was slain by sCesar_
+[22:45:11] [Server thread/INFO]: Villager Villager['Juanelo'/1386, uuid='5f3f5928-0e9f-491e-9ede-d17d250a3961', l='ServerLevel[world]', x=1125.53, y=60.00, z=1214.48, cpos=[70, 75], tl=71, v=true] died, message: 'Juanelo was slain by sCesar_'
+[22:45:11] [Server thread/INFO]: Named entity Villager['Juanelo'/1386, uuid='5f3f5928-0e9f-491e-9ede-d17d250a3961', l='ServerLevel[world]', x=1125.53, y=60.00, z=1214.48, cpos=[70, 75], tl=71, v=true] died: Juanelo was slain by sCesar_
+[22:45:25] [Server thread/INFO]: Villager Villager['Juanelo'/1412, uuid='b52763b5-a65e-40d9-b8b7-c3fd8dd88523', l='ServerLevel[world]', x=1127.30, y=60.00, z=1217.50, cpos=[70, 76], tl=76, v=true] died, message: 'Juanelo was slain by sCesar_'
+[22:45:25] [Server thread/INFO]: Named entity Villager['Juanelo'/1412, uuid='b52763b5-a65e-40d9-b8b7-c3fd8dd88523', l='ServerLevel[world]', x=1127.30, y=60.00, z=1217.50, cpos=[70, 76], tl=76, v=true] died: Juanelo was slain by sCesar_
+[22:45:29] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ItzzTsp
+[22:45:29] [localSession-7-2/INFO]: [Geyser-Spigot] ItzzTsp (logged in as: ItzzTsp) has connected to the Java server
+[22:45:30] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ItzzTsp joined (UUID: 00000000-0000-0000-0009-01f32f32091d)
+[22:45:30] [Server thread/INFO]: .ItzzTsp joined the game
+[22:45:30] [Server thread/INFO]: .ItzzTsp[/127.0.0.1:0] logged in with entity id 1428 at ([world]1123.0, 60.0, 1240.0)
+[22:45:39] [Async Chat Thread - #2/INFO]: [Not Secure] <sCesar_> oye y los demás que les paso
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:03] [Server thread/WARN]: .ItzzTsp moved too quickly! -785.3888800000001,-68.0,-663.0043999999999
+[22:46:09] [Async Chat Thread - #2/INFO]: [Not Secure] <.ItzzTsp> los voy a matar
+[22:46:51] [Async Chat Thread - #2/INFO]: [Not Secure] <sCesar_> q
+[22:46:56] [Server thread/INFO]: Villager Villager['Juanelo'/1422, uuid='60beaae3-ae7c-4668-b057-d222b2ce8c69', l='ServerLevel[world]', x=1127.50, y=60.00, z=1219.30, cpos=[70, 76], tl=1799, v=true] died, message: 'Juanelo was slain by sCesar_'
+[22:46:56] [Server thread/INFO]: Named entity Villager['Juanelo'/1422, uuid='60beaae3-ae7c-4668-b057-d222b2ce8c69', l='ServerLevel[world]', x=1127.50, y=60.00, z=1219.30, cpos=[70, 76], tl=1799, v=true] died: Juanelo was slain by sCesar_
+[22:47:36] [Server thread/INFO]: .ItzzTsp issued server command: /rp
+[22:47:39] [Server thread/INFO]: Villager Villager['Juanelo'/2082, uuid='e1722c14-e9e5-4121-b041-655de5293a5f', l='ServerLevel[world]', x=1128.49, y=60.00, z=1222.47, cpos=[70, 76], tl=188, v=true] died, message: 'Juanelo was slain by sCesar_'
+[22:47:39] [Server thread/INFO]: Named entity Villager['Juanelo'/2082, uuid='e1722c14-e9e5-4121-b041-655de5293a5f', l='ServerLevel[world]', x=1128.49, y=60.00, z=1222.47, cpos=[70, 76], tl=188, v=true] died: Juanelo was slain by sCesar_
+[22:48:01] [Server thread/INFO]: .ItzzTsp issued server command: /redprotect omero ItzzTsp
+[22:48:06] [Server thread/INFO]: Villager Villager['Juanelo'/2171, uuid='bb16ecbd-e75e-4ead-8502-4467e352774a', l='ServerLevel[world]', x=1129.05, y=60.00, z=1225.02, cpos=[70, 76], tl=105, v=true] died, message: 'Juanelo was slain by sCesar_'
+[22:48:06] [Server thread/INFO]: Named entity Villager['Juanelo'/2171, uuid='bb16ecbd-e75e-4ead-8502-4467e352774a', l='ServerLevel[world]', x=1129.05, y=60.00, z=1225.02, cpos=[70, 76], tl=105, v=true] died: Juanelo was slain by sCesar_
+[22:48:13] [Async Chat Thread - #3/INFO]: [Not Secure] <.ItzzTsp> secar como sardinas funciona el rp
+[22:48:24] [Server thread/INFO]: sCesar_ issued server command: /tp .ItzzTsp
+[22:48:24] [Server thread/INFO]: [sCesar_: Teleported sCesar_ to .ItzzTsp]
+[22:48:28] [Async Chat Thread - #3/INFO]: [Not Secure] <.ItzzTsp> no puedo ir al spawn siendo el unico en base y el unico conectado
+[22:48:45] [Async Chat Thread - #3/INFO]: [Not Secure] <sCesar_> agarralo
+[22:48:47] [Async Chat Thread - #3/INFO]: [Not Secure] <sCesar_> ven
+[22:49:00] [Server thread/INFO]: Sign Spy - Location: x: 345, y: -8, z: 580, world: world
+[22:49:00] [Server thread/INFO]: Player: .ItzzTsp
+[22:49:00] [Server thread/INFO]: Lines - 1: q - 2: 
+[22:49:00] [Server thread/INFO]: Lines - 3:  - 4: 
+[22:49:03] [Async Chat Thread - #3/INFO]: [Not Secure] <sCesar_> escribe [RP] arriba y un nombre abajo
+[22:49:12] [Server thread/INFO]: Sign Spy - Location: x: 345, y: -8, z: 580, world: world
+[22:49:12] [Server thread/INFO]: Player: .ItzzTsp
+[22:49:12] [Server thread/INFO]: Lines - 1: [RP] - 2: omero
+[22:49:12] [Server thread/INFO]: Lines - 3:  - 4: 
+[22:49:15] [Async Chat Thread - #3/INFO]: [Not Secure] <sCesar_> y ya
+[22:49:22] [Async Chat Thread - #3/INFO]: [Not Secure] <.ItzzTsp> GRACIAS SECAR
+[22:49:26] [Async Chat Thread - #3/INFO]: [Not Secure] <sCesar_> dnd
+[22:49:29] [Server thread/INFO]: sCesar_ issued server command: /spawn
+[22:49:30] [Server thread/INFO]: .ItzzTsp issued server command: /sethome omero
+[22:49:34] [Async Chat Thread - #3/INFO]: [Not Secure] <sCesar_> los demás no vendrán?
+[22:49:41] [Async Chat Thread - #3/INFO]: [Not Secure] <sCesar_> tenía pensado hacer un eventaco
+[22:49:44] [Server thread/INFO]: .ItzzTsp issued server command: /sethome
+[22:49:53] [Async Chat Thread - #3/INFO]: [Not Secure] <.ItzzTsp> les dire ahora
+[22:49:57] [Async Chat Thread - #3/INFO]: [Not Secure] <sCesar_> vale
+[22:50:03] [Async Chat Thread - #3/INFO]: [Not Secure] <.ItzzTsp> aver si pobredrock no me saca del server
+[22:50:15] [localSession-7-2/INFO]: [Geyser-Spigot] ItzzTsp has disconnected from the Java server because of Bedrock client timed out
+[22:50:15] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ItzzTsp disconnected
+[22:50:15] [Server thread/INFO]: .ItzzTsp lost connection: Disconnected
+[22:50:15] [Server thread/INFO]: .ItzzTsp left the game
