@@ -354,3 +354,166 @@ whitelist ord<--[HERE]
 [22:50:15] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ItzzTsp disconnected
 [22:50:15] [Server thread/INFO]: .ItzzTsp lost connection: Disconnected
 [22:50:15] [Server thread/INFO]: .ItzzTsp left the game
+[22:51:12] [Server thread/INFO]: Villager Villager['Juanelo'/2195, uuid='b2a77f63-3a13-420e-8aea-29fdc693ce89', l='ServerLevel[world]', x=1127.30, y=60.00, z=1219.40, cpos=[70, 76], tl=3670, v=true] died, message: 'Juanelo was slain by sCesar_'
+[22:51:12] [Server thread/INFO]: Named entity Villager['Juanelo'/2195, uuid='b2a77f63-3a13-420e-8aea-29fdc693ce89', l='ServerLevel[world]', x=1127.30, y=60.00, z=1219.40, cpos=[70, 76], tl=3670, v=true] died: Juanelo was slain by sCesar_
+[22:52:14] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ItzzTsp
+[22:52:14] [localSession-7-3/INFO]: [Geyser-Spigot] ItzzTsp (logged in as: ItzzTsp) has connected to the Java server
+[22:52:15] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ItzzTsp joined (UUID: 00000000-0000-0000-0009-01f32f32091d)
+[22:52:15] [Server thread/INFO]: .ItzzTsp joined the game
+[22:52:15] [Server thread/INFO]: .ItzzTsp[/127.0.0.1:0] logged in with entity id 2714 at ([world]1123.0, 60.0, 1240.0)
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:44] [Server thread/WARN]: .ItzzTsp moved too quickly! -777.71676,-68.0,-658.0085999999999
+[22:52:47] [Async Chat Thread - #5/INFO]: [Not Secure] <sCesar_> respondieron?
+[22:52:50] [Async Chat Thread - #5/INFO]: [Not Secure] <sCesar_> o que fue
+[22:52:53] [Async Chat Thread - #5/INFO]: [Not Secure] <.ItzzTsp> el narco de mario dijo que se iba a unir
+[22:52:56] [Server thread/INFO]: Sign Spy - Location: x: 345, y: -8, z: 580, world: world
+[22:52:56] [Server thread/INFO]: Player: .ItzzTsp
+[22:52:56] [Server thread/INFO]: Lines - 1: [RP]: Done. - 2: omero
+[22:52:56] [Server thread/INFO]: Lines - 3:  - 4: 
+[22:52:59] [Server thread/INFO]: sCesar_ issued server command: /locate estructura mansion
+[22:53:03] [Server thread/INFO]: .ItzzTsp issued server command: /sethome
+[22:53:08] [Server thread/INFO]: .ItzzTsp issued server command: /rp
+[22:53:14] [Server thread/INFO]: sCesar_ issued server command: /locate structure mansion
+[22:53:18] [Server thread/INFO]: Locating element minecraft:mansion took 3333 ms
+[22:53:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3307ms or 66 ticks behind
+[22:53:18] [Server thread/INFO]: .ItzzTsp issued server command: /rp ? 2
+[22:53:20] [Server thread/INFO]: sCesar_ issued server command: /tp @s 2928 ~ 6624
+[22:53:20] [Server thread/INFO]: [sCesar_: Teleported sCesar_ to 2928.500000, 60.000000, 6624.500000]
+[22:53:35] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[22:53:38] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=202, y=47, z=211}
+[22:53:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7905ms or 158 ticks behind
+[22:53:47] [Server thread/INFO]: sCesar_ issued server command: /gamemode spectator
+[22:53:47] [Server thread/INFO]: [sCesar_: Set own game mode to Spectator Mode]
+[22:53:48] [Server thread/INFO]: sCesar_ has made the advancement [Deep in the Dark Woodland]
+[22:54:04] [Server thread/INFO]: Sign Spy - Location: x: 345, y: -8, z: 580, world: world
+[22:54:04] [Server thread/INFO]: Player: .ItzzTsp
+[22:54:04] [Server thread/INFO]: Lines - 1: [RP] - 2: omero
+[22:54:04] [Server thread/INFO]: Lines - 3:  - 4: 
+[22:54:11] [Server thread/INFO]: sCesar_ issued server command: /gamemode creative
+[22:54:11] [Server thread/INFO]: [sCesar_: Set own game mode to Creative Mode]
+[22:54:56] [Server thread/INFO]: .ItzzTsp issued server command: /sethome omero
+[22:55:05] [Server thread/INFO]: Sign Spy - Location: x: 345, y: -8, z: 580, world: world
+[22:55:05] [Server thread/INFO]: Player: .ItzzTsp
+[22:55:05] [Server thread/INFO]: Lines - 1: roleplay omero - 2: 
+[22:55:05] [Server thread/INFO]: Lines - 3:  - 4: 
+[22:55:40] [Server thread/INFO]: .ItzzTsp issued server command: /sethome
+[22:55:45] [Server thread/INFO]: .ItzzTsp issued server command: /home
+[22:56:05] [Server thread/INFO]: .ItzzTsp issued server command: /help
+[22:56:36] [Server thread/INFO]: .ItzzTsp issued server command: /rp omero
+[22:56:50] [Server thread/INFO]: sCesar_ issued server command: /fill 2962 95 6645
+[22:57:06] [Server thread/INFO]: .ItzzTsp issued server command: /rp delete omero ItzzTsp
+[22:57:23] [Server thread/INFO]: .ItzzTsp issued server command: /rp yes
+[22:57:33] [Server thread/INFO]: sCesar_ issued server command: /fill 2962 95 6645 2962 95 6557 minecraft:oak_fence
+[22:57:33] [Server thread/INFO]: [sCesar_: Successfully filled 89 block(s)]
+[22:57:37] [Server thread/INFO]: .ItzzTsp issued server command: /rp no
+[22:57:53] [Server thread/INFO]: .ItzzTsp issued server command: /rp delete omero ItzzTsp
+[22:58:02] [Server thread/INFO]: .ItzzTsp issued server command: /rp yes
+[22:58:19] [Server thread/INFO]: .ItzzTsp issued server command: //rp delete yes
+[22:58:31] [Server thread/INFO]: sCesar_ issued server command: /fill 2880 95 6557 2962 95 6557 oak_fence
+[22:58:31] [Server thread/INFO]: [sCesar_: Successfully filled 82 block(s)]
+[22:58:38] [Server thread/INFO]: .ItzzTsp issued server command: /rp delete omero ItzzzTsp yes
+[22:58:53] [Server thread/INFO]: .ItzzTsp issued server command: /rp no
+[22:59:03] [Server thread/INFO]: .ItzzTsp issued server command: /rp delete omero ItzzTsp
+[22:59:12] [Server thread/INFO]: .ItzzTsp issued server command: /rp yes
+[22:59:29] [Server thread/INFO]: sCesar_ issued server command: /fill 2880 95 6557 2880 95 6655 oak_fence
+[22:59:29] [Server thread/INFO]: [sCesar_: Successfully filled 98 block(s)]
+[23:00:19] [Server thread/INFO]: sCesar_ issued server command: /fill 2962 95 6654 2880 95 6655 oak_fence
+[23:00:19] [Server thread/INFO]: [sCesar_: Successfully filled 164 block(s)]
