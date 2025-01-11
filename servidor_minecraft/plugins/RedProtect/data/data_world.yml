@@ -1,3 +1,56 @@
+test:
+  name: test
+  lastvisit: 10/01/2025
+  admins: []
+  members: []
+  leaders:
+  - 00000000-0000-0000-0009-01f32f32091d@.ItzzTsp
+  priority: 0
+  welcome: ''
+  world: world
+  maxX: 345
+  maxZ: 585
+  minX: 343
+  minZ: 583
+  maxY: 320
+  minY: -64
+  value: 0.0
+  flags:
+    can-grow: true
+    leaves-decay: false
+    allow-effects: true
+    door: false
+    teleport: true
+    allow-spawner: false
+    mob-loot: false
+    button: false
+    fire: false
+    flow: true
+    iceform-player: true
+    allow-home: false
+    chest: false
+    iceform-world: true
+    smart-door: true
+    fishing: false
+    use-potions: true
+    lever: false
+    pvp: false
+    spawn-animals: true
+    passives: false
+    press-plate: false
+    minecart: false
+    ender-chest: false
+    build: false
+    allow-fly: true
+    gravity: true
+    flow-damage: false
+    spawn-monsters: true
+    allow-potions: true
+    block-transform: true
+    redstone: false
+  candelete: true
+  canpurge: true
+  tppoint: ''
 aldeaimrandom:
   name: aldeaimrandom
   lastvisit: 09/01/2025
@@ -104,6 +157,59 @@ PREUBA:
   candelete: true
   canpurge: true
   tppoint: ''
+Eventacos:
+  name: Eventacos
+  lastvisit: 10/01/2025
+  admins: []
+  members: []
+  leaders:
+  - 7e6fff1d-74ad-3b02-ab79-6e5c7f4b54ba@sCesar_
+  priority: 0
+  welcome: ''
+  world: world
+  maxX: 2962
+  maxZ: 6654
+  minX: 2880
+  minZ: 6557
+  maxY: 320
+  minY: -64
+  value: 0.0
+  flags:
+    can-grow: true
+    leaves-decay: false
+    allow-effects: true
+    door: false
+    teleport: true
+    allow-spawner: false
+    mob-loot: false
+    button: false
+    fire: false
+    flow: true
+    iceform-player: true
+    allow-home: false
+    chest: false
+    iceform-world: true
+    smart-door: true
+    fishing: false
+    use-potions: true
+    lever: false
+    pvp: false
+    spawn-animals: true
+    passives: false
+    press-plate: false
+    minecart: false
+    ender-chest: false
+    build: false
+    allow-fly: true
+    gravity: true
+    flow-damage: false
+    spawn-monsters: true
+    allow-potions: true
+    block-transform: true
+    redstone: false
+  candelete: true
+  canpurge: true
+  tppoint: ''
 vacasagust:
   name: vacasagust
   lastvisit: 09/01/2025
@@ -118,6 +224,59 @@ vacasagust:
   maxZ: 1343
   minX: 200
   minZ: 1337
+  maxY: 320
+  minY: -64
+  value: 0.0
+  flags:
+    can-grow: true
+    leaves-decay: false
+    allow-effects: true
+    door: false
+    teleport: true
+    allow-spawner: false
+    mob-loot: false
+    button: false
+    fire: false
+    flow: true
+    iceform-player: true
+    allow-home: false
+    chest: false
+    iceform-world: true
+    smart-door: true
+    fishing: false
+    use-potions: true
+    lever: false
+    pvp: false
+    spawn-animals: true
+    passives: false
+    press-plate: false
+    minecart: false
+    ender-chest: false
+    build: false
+    allow-fly: true
+    gravity: true
+    flow-damage: false
+    spawn-monsters: true
+    allow-potions: true
+    block-transform: true
+    redstone: false
+  candelete: true
+  canpurge: true
+  tppoint: ''
+omero:
+  name: omero
+  lastvisit: 10/01/2025
+  admins: []
+  members: []
+  leaders:
+  - 00000000-0000-0000-0009-01f32f32091d@.ItzzTsp
+  priority: 0
+  welcome: ''
+  world: world
+  maxX: 346
+  maxZ: 579
+  minX: 344
+  minZ: 576
   maxY: 320
   minY: -64
   value: 0.0
