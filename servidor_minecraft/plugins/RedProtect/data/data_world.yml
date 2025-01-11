@@ -57,7 +57,7 @@ test:
   tppoint: ''
 aldeaimrandom:
   name: aldeaimrandom
-  lastvisit: 09/01/2025
+  lastvisit: 11/01/2025
   admins: []
   members: []
   leaders:
@@ -163,7 +163,7 @@ Eventacos:
   tppoint: ''
 vacasagust:
   name: vacasagust
-  lastvisit: 09/01/2025
+  lastvisit: 11/01/2025
   admins: []
   members: []
   leaders:
@@ -272,7 +272,7 @@ omero:
   tppoint: ''
 aldea:
   name: aldea
-  lastvisit: 09/01/2025
+  lastvisit: 11/01/2025
   admins: []
   members: []
   leaders:
@@ -323,6 +323,59 @@ aldea:
   candelete: true
   canpurge: true
   tppoint: 133,71,1319,0.0,0.0
+hola:
+  name: hola
+  lastvisit: 11/01/2025
+  admins: []
+  members: []
+  leaders:
+  - 4fbc7bf1-ecc0-3ede-ac20-90acfbd824d1@TheMario_SM
+  priority: 0
+  welcome: ''
+  world: world
+  maxX: 343
+  maxZ: 599
+  minX: 341
+  minZ: 597
+  maxY: 320
+  minY: -64
+  value: 0.0
+  flags:
+    can-grow: true
+    leaves-decay: false
+    allow-effects: true
+    door: false
+    teleport: true
+    allow-spawner: false
+    mob-loot: false
+    button: false
+    fire: false
+    flow: true
+    iceform-player: true
+    allow-home: false
+    chest: false
+    iceform-world: true
+    smart-door: true
+    fishing: false
+    use-potions: true
+    lever: false
+    pvp: false
+    spawn-animals: true
+    passives: false
+    press-plate: false
+    minecart: false
+    ender-chest: false
+    build: false
+    allow-fly: true
+    gravity: true
+    flow-damage: false
+    spawn-monsters: true
+    allow-potions: true
+    block-transform: true
+    redstone: false
+  candelete: true
+  canpurge: true
+  tppoint: ''
 zona_de_espera:
   name: zona_de_espera
   lastvisit: 11/01/2025
@@ -378,7 +431,7 @@ zona_de_espera:
   tppoint: ''
 home:
   name: home
-  lastvisit: 09/01/2025
+  lastvisit: 11/01/2025
   admins: []
   members: []
   leaders:
@@ -431,7 +484,7 @@ home:
   tppoint: 214,74,1326,0.0,0.0
 aldeagoty:
   name: aldeagoty
-  lastvisit: 09/01/2025
+  lastvisit: 11/01/2025
   admins: []
   members: []
   leaders:
