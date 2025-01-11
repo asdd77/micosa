@@ -58,6 +58,7 @@
       "minecraft:badlands": "2025-01-08 22:36:37 +0000",
       "minecraft:beach": "2025-01-08 23:46:59 +0000",
       "minecraft:old_growth_pine_taiga": "2025-01-09 00:43:27 +0000",
+      "minecraft:dark_forest": "2025-01-11 01:12:31 +0000",
       "minecraft:forest": "2025-01-09 00:16:41 +0000",
       "minecraft:sparse_jungle": "2025-01-08 23:55:43 +0000",
       "minecraft:river": "2025-01-08 23:48:22 +0000",
@@ -2472,7 +2473,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "toxic_lair": "2025-01-10 01:39:40 +0000"
+      "toxic_lair": "2025-01-10 01:39:40 +0000",
+      "mansion": "2025-01-11 01:12:31 +0000"
     },
     "done": false
   },
@@ -2652,73 +2654,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:03:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:13:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:03:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:13:38 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:03:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:13:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:03:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:13:38 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:03:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:13:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:03:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:13:38 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:03:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:13:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:03:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:13:38 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:03:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:13:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:03:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:13:38 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:03:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:13:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:03:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:13:38 +0000"
     },
     "done": false
   },
@@ -2737,6 +2739,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-01-10 23:55:52 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_mansion": {
+    "criteria": {
+      "minecraft:woodland_mansion": "2025-01-11 01:12:31 +0000"
     },
     "done": true
   },

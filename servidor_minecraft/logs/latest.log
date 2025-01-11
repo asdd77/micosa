@@ -1811,3 +1811,173 @@ java.lang.IllegalArgumentException: Cannot measure distance between world_bracke
 [01:04:14] [Server thread/INFO]: sCesar_ issued server command: /playsound minecraft:entity.ender_dragon.death playera @a
 [01:04:20] [Server thread/INFO]: sCesar_ issued server command: /playsound minecraft:entity.ender_dragon.death player @a
 [01:04:20] [Server thread/INFO]: [sCesar_: Played sound minecraft:entity.ender_dragon.death to 4 players]
+[01:04:35] [Server thread/INFO]: sCesar_ issued server command: /tp .Mokouver
+[01:04:35] [Server thread/INFO]: [sCesar_: Teleported sCesar_ to .Mokouver]
+[01:04:37] [Server thread/INFO]: sCesar_ issued server command: /playsound minecraft:entity.ender_dragon.death player @a
+[01:04:37] [Server thread/INFO]: [sCesar_: Played sound minecraft:entity.ender_dragon.death to 4 players]
+[01:04:50] [Server thread/INFO]: sCesar_ issued server command: /playsound minecraft:entity.ender_dragon.death player @a
+[01:04:50] [Server thread/INFO]: [sCesar_: Played sound minecraft:entity.ender_dragon.death to 4 players]
+[01:04:52] [Async Chat Thread - #13/INFO]: [Not Secure] <.Mokouver> me jumpscareo el sonido y cesar
+[01:04:54] [Async Chat Thread - #13/INFO]: [Not Secure] <Korite> aya
+[01:04:54] [Async Chat Thread - #13/INFO]: [Not Secure] <.Mokouver> XDDD
+[01:04:56] [Async Chat Thread - #13/INFO]: [Not Secure] <TheMario_SM> QQUE
+[01:04:58] [Async Chat Thread - #13/INFO]: [Not Secure] <TheMario_SM> ESO QUE FUE
+[01:04:58] [Async Chat Thread - #13/INFO]: [Not Secure] <TheMario_SM> XDDD
+[01:05:10] [Server thread/INFO]: sCesar_ issued server command: /playsound minecraft:entity.ender_dragon.death player @a
+[01:05:10] [Server thread/INFO]: [sCesar_: Played sound minecraft:entity.ender_dragon.death to 4 players]
+[01:05:12] [Async Chat Thread - #13/INFO]: [Not Secure] <TheMario_SM> NUX YA TENGO 2 STACKS
+[01:05:23] [Server thread/INFO]: TheMario_SM issued server command: /tpa Korite
+[01:05:25] [Server thread/INFO]: Korite issued server command: /tpaccept
+[01:05:29] [Async Chat Thread - #13/INFO]: [Not Secure] <Korite> quita todo
+[01:05:31] [Async Chat Thread - #13/INFO]: [Not Secure] <Korite> lo que te dije
+[01:05:33] [Async Chat Thread - #13/INFO]: [Not Secure] <Korite> aun falta mas
+[01:05:37] [Async Chat Thread - #13/INFO]: [Not Secure] <TheMario_SM> ya void
+[01:05:49] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> ayas
+[01:06:00] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> MAN
+[01:06:00] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> XDD
+[01:06:13] [Server thread/INFO]: TheMario_SM fell from a high place
+[01:06:17] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> NO ME VUELVO A REIR.
+[01:06:19] [Server thread/INFO]: TheMario_SM issued server command: /back
+[01:06:36] [Server thread/INFO]: sCesar_ issued server command: /playsound minecraft:entity.warden.angry player @a
+[01:06:36] [Server thread/INFO]: [sCesar_: Played sound minecraft:entity.warden.angry to 4 players]
+[01:06:41] [Server thread/INFO]: TheMario_SM issued server command: /tpa Korite
+[01:06:44] [Server thread/INFO]: Korite issued server command: /tpaccept
+[01:06:45] [Server thread/INFO]: sCesar_ issued server command: /playsound minecraft:entity.warden.angry player @a
+[01:06:45] [Server thread/INFO]: [sCesar_: Played sound minecraft:entity.warden.angry to 4 players]
+[01:06:50] [Server thread/INFO]: sCesar_ issued server command: /playsound minecraft:entity.warden.angry player @a
+[01:06:50] [Server thread/INFO]: [sCesar_: Played sound minecraft:entity.warden.angry to 4 players]
+[01:07:03] [Server thread/INFO]: sCesar_ issued server command: /playsound minecraft:entity.warden.emerge player @a
+[01:07:03] [Server thread/INFO]: [sCesar_: Played sound minecraft:entity.warden.emerge to 4 players]
+[01:07:04] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> aqui es bien facil perderse alchile
+[01:07:08] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> CESAR YA
+[01:07:08] [Async Chat Thread - #12/INFO]: [Not Secure] <Korite> qeu
+[01:07:09] [Async Chat Thread - #12/INFO]: [Not Secure] <Korite> QUE
+[01:07:15] [Server thread/INFO]: sCesar_ issued server command: /playsound minecraft:entity.warden.emerge player @a
+[01:07:15] [Server thread/INFO]: [sCesar_: Played sound minecraft:entity.warden.emerge to 4 players]
+[01:07:22] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> nux
+[01:07:23] [Async Chat Thread - #12/INFO]: [Not Secure] <sCesar_> ando viendo
+[01:07:24] [Async Chat Thread - #12/INFO]: [Not Secure] <Korite> Q
+[01:07:26] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> no es para que te asustes pero
+[01:07:29] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> donde era?
+[01:07:32] [Async Chat Thread - #12/INFO]: [Not Secure] <sCesar_> ya está listo el event
+[01:07:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Korite> mario
+[01:07:39] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> a ya vi
+[01:07:40] [Async Chat Thread - #12/INFO]: [Not Secure] <Korite> aca
+[01:07:40] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> XD
+[01:07:40] [Async Chat Thread - #12/INFO]: [Not Secure] <sCesar_> en el Spawn os espero
+[01:07:42] [Async Chat Thread - #12/INFO]: [Not Secure] <Korite> ahi
+[01:07:44] [Server thread/INFO]: sCesar_ issued server command: /spawn
+[01:07:45] [Async Chat Thread - #12/INFO]: [Not Secure] <Korite> y del otro lado
+[01:07:46] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> vayamos al event
+[01:07:49] [Async Chat Thread - #12/INFO]: [Not Secure] <sCesar_> y tsp ques e hizo
+[01:07:49] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> chicos
+[01:08:00] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> vamos al evento?
+[01:08:06] [Async Chat Thread - #12/INFO]: [Not Secure] <sCesar_> oye y tsp
+[01:08:09] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> bateria
+[01:08:13] [Async Chat Thread - #12/INFO]: [Not Secure] <sCesar_> f
+[01:08:16] [Async Chat Thread - #12/INFO]: [Not Secure] <.Mokouver> ola sofa
+[01:08:33] [Server thread/INFO]: Korite issued server command: /spawn
+[01:08:35] [Async Chat Thread - #12/INFO]: [Not Secure] <Korite> mario
+[01:08:36] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> madera
+[01:08:37] [Async Chat Thread - #12/INFO]: [Not Secure] <Korite> te recuerdo
+[01:08:38] [Async Chat Thread - #12/INFO]: [Not Secure] <Korite> la base
+[01:08:40] [Async Chat Thread - #12/INFO]: [Not Secure] <Korite> para volver
+[01:08:41] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> XD
+[01:08:43] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> por eso
+[01:08:44] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> quiero madera
+[01:08:46] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> pa poner rp
+[01:08:47] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> y volver
+[01:08:52] [Server thread/INFO]: Korite issued server command: /tpa TheMario_SM
+[01:08:56] [Server thread/INFO]: TheMario_SM issued server command: /tpaccept
+[01:09:04] [Async Chat Thread - #12/INFO]: [Not Secure] <Korite> a
+[01:09:04] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> q
+[01:09:06] [Async Chat Thread - #12/INFO]: [Not Secure] <Korite> ya tienes
+[01:09:08] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> no
+[01:09:09] [Server thread/INFO]: Korite issued server command: /spawn
+[01:09:09] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> me faltan
+[01:09:09] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> xd
+[01:09:12] [Async Chat Thread - #13/INFO]: [Not Secure] <Korite> buu
+[01:09:16] [Server thread/INFO]: Korite issued server command: /tpa TheMario_SM
+[01:09:18] [Server thread/INFO]: TheMario_SM issued server command: /tpaccept
+[01:09:27] [Server thread/INFO]: TheMario_SM issued server command: /tpaccept
+[01:09:43] [Async Chat Thread - #13/INFO]: [Not Secure] <TheMario_SM> madera?
+[01:09:47] [Async Chat Thread - #13/INFO]: [Not Secure] <TheMario_SM> A NO
+[01:09:48] [Async Chat Thread - #13/INFO]: [Not Secure] <TheMario_SM> ya no
+[01:09:51] [Async Chat Thread - #13/INFO]: [Not Secure] <sCesar_> cualquier cosa vayan al spawn en la zona de espera para participar
+[01:10:05] [Server thread/INFO]: Sign Spy - Location: x: 344, y: -2, z: 596, world: world
+[01:10:05] [Server thread/INFO]: Player: TheMario_SM
+[01:10:05] [Server thread/INFO]: Lines - 1: [rp] - 2: hola
+[01:10:05] [Server thread/INFO]: Lines - 3:  - 4: 
+[01:10:07] [Server thread/INFO]: sCesar_ issued server command: /rp list
+[01:10:07] [Async Chat Thread - #13/INFO]: [Not Secure] <TheMario_SM> listo
+[01:10:08] [Async Chat Thread - #13/INFO]: [Not Secure] <TheMario_SM> ya hay rp
+[01:10:10] [Async Chat Thread - #13/INFO]: [Not Secure] <TheMario_SM> pa volver
+[01:10:15] [Server thread/INFO]: sCesar_ issued server command: /rp tp eventacos
+[01:10:16] [Async Chat Thread - #13/INFO]: [Not Secure] <Korite> preubala
+[01:10:21] [Async Chat Thread - #13/INFO]: [Not Secure] <TheMario_SM> e
+[01:10:23] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport hola
+[01:10:27] [Async Chat Thread - #13/INFO]: [Not Secure] <TheMario_SM> si
+[01:10:29] [Async Chat Thread - #13/INFO]: [Not Secure] <TheMario_SM> funciona
+[01:10:32] [Server thread/INFO]: TheMario_SM issued server command: /tpa .Mokouver
+[01:10:42] [Server thread/INFO]: .Mokouver issued server command: /tpaccept
+[01:10:44] [Async Chat Thread - #13/INFO]: [Not Secure] <sCesar_> ve sCesar_ barruer
+[01:10:48] [Async Chat Thread - #13/INFO]: [Not Secure] <TheMario_SM> vamos al evento?
+[01:10:48] [Server thread/INFO]: Korite issued server command: /spawn
+[01:10:49] [Async Chat Thread - #13/INFO]: [Not Secure] <sCesar_> barruer
+[01:11:00] [Server thread/INFO]: sCesar_ issued server command: /give sCesar_ barrier
+[01:11:00] [Server thread/INFO]: [sCesar_: Gave 1 [Barrier] to sCesar_]
+[01:11:02] [Async Chat Thread - #13/INFO]: [Not Secure] <TheMario_SM> que
+[01:11:10] [Async Chat Thread - #13/INFO]: [Not Secure] <.Mokouver> ola
+[01:11:11] [Async Chat Thread - #13/INFO]: [Not Secure] <Korite> cesar y el evento
+[01:11:13] [Async Chat Thread - #13/INFO]: [Not Secure] <TheMario_SM> hola
+[01:11:14] [Async Chat Thread - #13/INFO]: [Not Secure] <.Mokouver> aqui vivo
+[01:11:17] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> XD
+[01:11:19] [Async Chat Thread - #12/INFO]: [Not Secure] <sCesar_> vayan a la zona de es0era
+[01:11:24] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> cake vamos al evento w
+[01:11:26] [Async Chat Thread - #12/INFO]: [Not Secure] <Korite> donde
+[01:11:30] [Async Chat Thread - #12/INFO]: [Not Secure] <.Mokouver> yono
+[01:11:34] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> aya
+[01:11:37] [Server thread/INFO]: TheMario_SM issued server command: /spawn
+[01:11:54] [Async Chat Thread - #12/INFO]: [Not Secure] <.Mokouver> se me descarga el cel
+[01:11:58] [Async Chat Thread - #12/INFO]: [Not Secure] <.Mokouver> aaaaa
+[01:12:02] [Async Chat Thread - #12/INFO]: [Not Secure] <Korite> mario matate
+[01:12:04] [Async Chat Thread - #13/INFO]: [Not Secure] <Korite> te odio
+[01:12:07] [localSession-7-1/INFO]: [Geyser-Spigot] Mokouver has disconnected from the Java server because of Bedrock client disconnected
+[01:12:07] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Mokouver disconnected
+[01:12:07] [Server thread/INFO]: .Mokouver lost connection: Disconnected
+[01:12:07] [Server thread/INFO]: .Mokouver left the game
+[01:12:12] [Async Chat Thread - #13/INFO]: [Not Secure] <TheMario_SM> dale cesar
+[01:12:13] [Async Chat Thread - #12/INFO]: [Not Secure] <sCesar_> asd
+[01:12:18] [Server thread/INFO]: sCesar_ issued server command: /tpall
+[01:12:27] [Server thread/INFO]: sCesar_ issued server command: /tpahereall
+[01:12:29] [Server thread/INFO]: TheMario_SM issued server command: /tpaccept
+[01:12:30] [Server thread/INFO]: Korite issued server command: /tpaccept
+[01:12:30] [Server thread/INFO]: TheMario_SM has made the advancement [Deep in the Dark Woodland]
+[01:12:31] [Server thread/INFO]: Korite has made the advancement [Deep in the Dark Woodland]
+[01:12:33] [Async Chat Thread - #12/INFO]: [Not Secure] <Korite> q
+[01:12:34] [Async Chat Thread - #12/INFO]: [Not Secure] <sCesar_> ah si
+[01:12:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Korite> miedo
+[01:12:40] [Async Chat Thread - #12/INFO]: [Not Secure] <sCesar_> vayan al spawn y quiten se eso
+[01:12:44] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> quitar q
+[01:12:47] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> a
+[01:12:47] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> XD
+[01:12:49] [Async Chat Thread - #12/INFO]: [Not Secure] <sCesar_> las armaduras
+[01:12:56] [Async Chat Thread - #12/INFO]: [Not Secure] <sCesar_> se supone que deben ir sin nada
+[01:13:02] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> A
+[01:13:04] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> YA ESTOY
+[01:13:06] [Server thread/INFO]: sCesar_ issued server command: /spawn
+[01:13:06] [Async Chat Thread - #13/INFO]: [Not Secure] <TheMario_SM> asdsadj
+[01:13:14] [Async Chat Thread - #13/INFO]: [Not Secure] <sCesar_> vayan a sus bases y guarden todo asd
+[01:13:16] [Async Chat Thread - #13/INFO]: [Not Secure] <Korite> demonios
+[01:13:17] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> a
+[01:13:18] [Async Chat Thread - #12/INFO]: [Not Secure] <TheMario_SM> demonios
+[01:13:21] [Server thread/INFO]: TheMario_SM issued server command: /rp tp hola
+[01:13:25] [Server thread/INFO]: Korite issued server command: /rp teleport
+[01:13:33] [Server thread/INFO]: Korite issued server command: /rp teleport omero
+[01:13:33] [Server thread/INFO]: sCesar_ issued server command: /tp Korite
+[01:13:33] [Server thread/INFO]: [sCesar_: Teleported sCesar_ to Korite]
+[01:13:38] [Server thread/INFO]: sCesar_ issued server command: /tp Korite
+[01:13:38] [Server thread/INFO]: [sCesar_: Teleported sCesar_ to Korite]
+[01:14:35] [Async Chat Thread - #14/INFO]: [Not Secure] <Korite> sesar
+[01:14:35] [Async Chat Thread - #14/INFO]: [Not Secure] <sCesar_> una vez ya estén listos vayan a la sala de espeea
+[01:14:37] [Async Chat Thread - #14/INFO]: [Not Secure] <Korite> la shulker

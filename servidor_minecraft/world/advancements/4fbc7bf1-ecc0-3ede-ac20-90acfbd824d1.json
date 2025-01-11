@@ -1738,7 +1738,8 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "illager_camp": "2025-01-09 02:27:25 +0000",
-      "toxic_lair": "2025-01-08 02:03:08 +0000"
+      "toxic_lair": "2025-01-08 02:03:08 +0000",
+      "mansion": "2025-01-11 01:12:30 +0000"
     },
     "done": false
   },
@@ -3126,85 +3127,79 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:02:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:12:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:02:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:12:38 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:02:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:12:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:02:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:12:38 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:02:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:12:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:02:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:12:38 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:02:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:12:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:02:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:12:38 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:02:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:12:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:02:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:12:38 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:02:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:12:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-11 01:02:38 +0000"
+      "log_spam_fixer": "2025-01-11 01:12:38 +0000"
     },
     "done": false
   },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-01-11 00:02:16 +0000"
-    },
-    "done": true
-  },
-  "bracken:technical/dimension_travel/enter/overworld": {
-    "criteria": {
-      "changed_dimension": "2025-01-11 00:30:47 +0000"
     },
     "done": true
   },
@@ -3223,6 +3218,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-01-11 00:42:40 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_mansion": {
+    "criteria": {
+      "minecraft:woodland_mansion": "2025-01-11 01:12:30 +0000"
     },
     "done": true
   },
