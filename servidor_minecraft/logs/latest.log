@@ -2061,3 +2061,212 @@ java.lang.IllegalArgumentException: Cannot measure distance between world_bracke
 [01:23:52] [Async Chat Thread - #16/INFO]: [Not Secure] <TheMario_SM> sexo
 [01:24:16] [Server thread/INFO]: TheMario_SM issued server command: /msg Korite comida
 [01:24:44] [Server thread/INFO]: sCesar_ issued server command: /rp tp eventacos
+[01:26:04] [Server thread/INFO]: TheMario_SM has made the advancement [Sneak 100]
+[01:26:08] [Server thread/INFO]: Korite has made the advancement [Sneak 100]
+[01:26:21] [Async Chat Thread - #18/INFO]: [Not Secure] <sCesar_> no se les ocurra moverse
+[01:27:04] [Server thread/INFO]: Korite was obliterated by a sonically-charged shriek
+[01:27:07] [Async Chat Thread - #18/INFO]: [Not Secure] <Korite> xddd
+[01:27:09] [Async Chat Thread - #18/INFO]: [Not Secure] <sCesar_> gg
+[01:27:13] [Async Chat Thread - #18/INFO]: [Not Secure] <Korite> mano
+[01:27:16] [Async Chat Thread - #18/INFO]: [Not Secure] <Korite> que babosada
+[01:27:17] [Async Chat Thread - #18/INFO]: [Not Secure] <Korite> chao
+[01:27:18] [Server thread/INFO]: Korite lost connection: Disconnected
+[01:27:18] [Server thread/INFO]: Korite left the game
+[01:27:22] [Async Chat Thread - #18/INFO]: [Not Secure] <sCesar_> XD
+[01:27:32] [Async Chat Thread - #18/INFO]: [Not Secure] <sCesar_> ahora a matar estos wardens
+[01:27:44] [Server thread/INFO]: TheMario_SM was killed
+[01:27:44] [Server thread/INFO]: Villager Villager['Juanelo'/3665, uuid='9e623ef7-0335-4fca-b922-5d2754875f71', l='ServerLevel[world]', x=1127.70, y=60.00, z=1219.30, cpos=[70, 76], tl=106283, v=true] died, message: 'Juanelo was killed'
+[01:27:44] [Server thread/INFO]: Named entity Villager['Juanelo'/3665, uuid='9e623ef7-0335-4fca-b922-5d2754875f71', l='ServerLevel[world]', x=1127.70, y=60.00, z=1219.30, cpos=[70, 76], tl=106283, v=true] died: Juanelo was killed
+[01:27:44] [Server thread/INFO]: Villager Villager['Juaneton'/27, uuid='78b15100-d99d-4637-a869-920973e2a4bc', l='ServerLevel[world]', x=1123.30, y=60.00, z=1215.50, cpos=[70, 75], tl=97115, v=true] died, message: 'Juaneton was killed'
+[01:27:44] [Server thread/INFO]: Named entity Villager['Juaneton'/27, uuid='78b15100-d99d-4637-a869-920973e2a4bc', l='ServerLevel[world]', x=1123.30, y=60.00, z=1215.50, cpos=[70, 75], tl=97115, v=true] died: Juaneton was killed
+[01:27:44] [Server thread/INFO]: Villager Villager['JuanMecanico'/15, uuid='598b84a3-69ba-402a-af5d-db93e10cfce7', l='ServerLevel[world]', x=1123.50, y=67.50, z=1228.50, cpos=[70, 76], tl=330588, v=true] died, message: 'JuanMecanico was killed'
+[01:27:44] [Server thread/INFO]: Named entity Villager['JuanMecanico'/15, uuid='598b84a3-69ba-402a-af5d-db93e10cfce7', l='ServerLevel[world]', x=1123.50, y=67.50, z=1228.50, cpos=[70, 76], tl=330588, v=true] died: JuanMecanico was killed
+[01:27:44] [Server thread/INFO]: Villager Villager['Cartographer'/5, uuid='201f88d5-3441-4330-ad3c-215118da5595', l='ServerLevel[world]', x=1114.50, y=60.50, z=1221.50, cpos=[69, 76], tl=189508, v=true] died, message: 'Cartographer was killed'
+[01:27:44] [Server thread/INFO]: Villager Villager['Juanetes'/7, uuid='dfe32c27-f192-46e3-a007-bc2af9357dce', l='ServerLevel[world]', x=1119.50, y=60.00, z=1219.30, cpos=[69, 76], tl=549081, v=true] died, message: 'Juanetes was killed'
+[01:27:44] [Server thread/INFO]: Named entity Villager['Juanetes'/7, uuid='dfe32c27-f192-46e3-a007-bc2af9357dce', l='ServerLevel[world]', x=1119.50, y=60.00, z=1219.30, cpos=[69, 76], tl=549081, v=true] died: Juanetes was killed
+[01:27:45] [Server thread/INFO]: sCesar_ was killed
+[01:27:45] [Server thread/INFO]: Villager Villager['Librarian'/10, uuid='f71e2bbd-56f2-4aba-8da9-ec92901c3594', l='ServerLevel[world]', x=1118.50, y=60.50, z=1221.50, cpos=[69, 76], tl=114127, v=true] died, message: 'Librarian was killed'
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/388, uuid='e153bf11-9016-4a73-88c1-db130b3d4438', l='ServerLevel[world_bracken_sanctum]', x=-39.76, y=211.00, z=45.11, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/377, uuid='323adce0-ce5d-4581-8615-c216d6d895c7', l='ServerLevel[world_bracken_sanctum]', x=-44.88, y=158.00, z=21.27, cpos=[-3, 1], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/385, uuid='f5f0cae7-0f39-4686-af0e-dc0994fe226a', l='ServerLevel[world_bracken_sanctum]', x=-39.76, y=211.00, z=45.11, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/393, uuid='938c5efc-6816-4aba-9f83-a63121c98ec5', l='ServerLevel[world_bracken_sanctum]', x=-39.76, y=211.00, z=45.11, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/400, uuid='bc291a1e-4244-4bf3-b2c7-24191e791620', l='ServerLevel[world_bracken_sanctum]', x=-44.44, y=146.00, z=40.12, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/374, uuid='fc4703b8-8cba-48f5-8e25-259c60922890', l='ServerLevel[world_bracken_sanctum]', x=-44.88, y=158.00, z=21.27, cpos=[-3, 1], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/373, uuid='be5874f7-3c91-4d3d-a960-20efec62b6e5', l='ServerLevel[world_bracken_sanctum]', x=-44.88, y=158.00, z=21.27, cpos=[-3, 1], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/387, uuid='0d432df9-92ca-4d93-818d-f99ebf7579a7', l='ServerLevel[world_bracken_sanctum]', x=-39.76, y=211.00, z=45.11, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/389, uuid='b6a11bee-2652-40ea-858e-b2d0ef486f9c', l='ServerLevel[world_bracken_sanctum]', x=-39.76, y=211.00, z=45.11, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/390, uuid='5b30d642-88eb-47d5-bc71-d831b18dc4c1', l='ServerLevel[world_bracken_sanctum]', x=-39.76, y=211.00, z=45.11, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/402, uuid='1ec2d8c7-ed5b-4c0f-92b7-cf052bb7eb25', l='ServerLevel[world_bracken_sanctum]', x=-44.54, y=122.00, z=45.74, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/381, uuid='8fcf0794-95e4-455e-8c83-a9017ae4a316', l='ServerLevel[world_bracken_sanctum]', x=-39.76, y=211.00, z=45.11, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/392, uuid='9610ccfe-d157-4eb2-a50d-d33492439e43', l='ServerLevel[world_bracken_sanctum]', x=-39.76, y=211.00, z=45.11, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/375, uuid='7c9cf5e8-5aa7-4e68-952e-e8b41d9b34c0', l='ServerLevel[world_bracken_sanctum]', x=-44.88, y=158.00, z=21.27, cpos=[-3, 1], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/395, uuid='574103bc-c274-4210-adab-ffa745f20cd0', l='ServerLevel[world_bracken_sanctum]', x=-39.76, y=211.00, z=45.11, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/372, uuid='361275e1-acaa-4a15-be99-fc38e8d947dd', l='ServerLevel[world_bracken_sanctum]', x=-44.88, y=158.00, z=21.27, cpos=[-3, 1], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/396, uuid='2004a0d7-1976-4bfd-aa07-a1087b57efe3', l='ServerLevel[world_bracken_sanctum]', x=-44.53, y=212.00, z=41.25, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/379, uuid='2f57034f-959d-4d86-b4ec-18e4a8fdfe49', l='ServerLevel[world_bracken_sanctum]', x=-44.88, y=158.00, z=21.27, cpos=[-3, 1], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/394, uuid='456078c8-d1b0-4369-840c-78eea404089a', l='ServerLevel[world_bracken_sanctum]', x=-39.76, y=211.00, z=45.11, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/386, uuid='11e7711d-2b5f-4353-ad37-a357e5c1e490', l='ServerLevel[world_bracken_sanctum]', x=-39.76, y=211.00, z=45.11, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/384, uuid='53b132ca-08b8-4fdf-b301-06558c51c8f7', l='ServerLevel[world_bracken_sanctum]', x=-39.76, y=211.00, z=45.11, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/378, uuid='ec89af9c-c679-40c4-8efe-4bd998c808c0', l='ServerLevel[world_bracken_sanctum]', x=-44.88, y=158.00, z=21.27, cpos=[-3, 1], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/376, uuid='bf9ab656-b702-4d71-8709-00167afc80f3', l='ServerLevel[world_bracken_sanctum]', x=-44.88, y=158.00, z=21.27, cpos=[-3, 1], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/398, uuid='897b0093-589e-4092-8f5f-547abdecb903', l='ServerLevel[world_bracken_sanctum]', x=-35.39, y=133.00, z=45.49, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/391, uuid='90c4c966-14ea-4263-99bb-0d6286fa872d', l='ServerLevel[world_bracken_sanctum]', x=-39.76, y=211.00, z=45.11, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/380, uuid='3f412f22-df21-49d3-9a0b-fff11aa447f8', l='ServerLevel[world_bracken_sanctum]', x=-39.76, y=211.00, z=45.11, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/383, uuid='77e97784-e76b-484f-9f92-ecdf7b73d603', l='ServerLevel[world_bracken_sanctum]', x=-39.76, y=211.00, z=45.11, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/397, uuid='68c4b7a8-d792-4868-91a2-20480d64bc3f', l='ServerLevel[world_bracken_sanctum]', x=-44.62, y=230.00, z=35.71, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity WitherSkeleton['Proto-Golem'/382, uuid='d23a14b2-050b-4da3-a0ff-d0b49968db5d', l='ServerLevel[world_bracken_sanctum]', x=-39.76, y=211.00, z=45.11, cpos=[-3, 2], tl=0, v=true] died: Proto-Golem was killed
+[01:27:45] [Server thread/INFO]: Named entity Creeper['Gigaton Creeper'/410, uuid='253a67e1-a23a-456d-a030-01ce3645387f', l='ServerLevel[world_bracken_panacea]', x=-22.50, y=73.00, z=23.50, cpos=[-2, 1], tl=0, v=true] died: Gigaton Creeper was killed
+[01:27:45] [Server thread/INFO]: Named entity Zombie['Solatium Thrall'/422, uuid='5990b169-0b1b-4a7a-ac92-ff011b53046f', l='ServerLevel[world_bracken_dormis]', x=-3.14, y=171.00, z=-3.10, cpos=[-1, -1], tl=1398671, v=true] died: Solatium Thrall was killed
+[01:27:53] [Server thread/INFO]: sCesar_ issued server command: /spawn
+[01:27:57] [Async Chat Thread - #18/INFO]: [Not Secure] <TheMario_SM> LOS
+[01:27:59] [Async Chat Thread - #18/INFO]: [Not Secure] <TheMario_SM> ALDEANOS
+[01:28:00] [Async Chat Thread - #18/INFO]: [Not Secure] <TheMario_SM> XDDDDDD
+[01:28:03] [Async Chat Thread - #18/INFO]: [Not Secure] <sCesar_> q
+[01:28:07] [Async Chat Thread - #18/INFO]: [Not Secure] <sCesar_> XD
+[01:28:20] [Server thread/INFO]: Villager Villager['Juanelo'/47766, uuid='2d6abd5a-478a-4335-b851-aa2a6a0a3780', l='ServerLevel[world]', x=1127.70, y=60.00, z=1219.70, cpos=[70, 76], tl=138, v=true] died, message: 'Juanelo was slain by sCesar_'
+[01:28:20] [Server thread/INFO]: Named entity Villager['Juanelo'/47766, uuid='2d6abd5a-478a-4335-b851-aa2a6a0a3780', l='ServerLevel[world]', x=1127.70, y=60.00, z=1219.70, cpos=[70, 76], tl=138, v=true] died: Juanelo was slain by sCesar_
+[01:28:31] [Server thread/INFO]: Villager Villager['Juaneton'/47789, uuid='5fac1519-2bb7-4d87-be30-5889e9470fef', l='ServerLevel[world]', x=1123.70, y=60.00, z=1215.30, cpos=[70, 75], tl=92, v=true] died, message: 'Juaneton was slain by sCesar_'
+[01:28:31] [Server thread/INFO]: Named entity Villager['Juaneton'/47789, uuid='5fac1519-2bb7-4d87-be30-5889e9470fef', l='ServerLevel[world]', x=1123.70, y=60.00, z=1215.30, cpos=[70, 75], tl=92, v=true] died: Juaneton was slain by sCesar_
+[01:28:41] [Server thread/INFO]: Villager Villager['Juaneton'/47799, uuid='bc120aed-8656-4806-b026-2d895b818db5', l='ServerLevel[world]', x=1123.70, y=60.00, z=1215.30, cpos=[70, 75], tl=158, v=true] died, message: 'Juaneton was slain by sCesar_'
+[01:28:41] [Server thread/INFO]: Named entity Villager['Juaneton'/47799, uuid='bc120aed-8656-4806-b026-2d895b818db5', l='ServerLevel[world]', x=1123.70, y=60.00, z=1215.30, cpos=[70, 75], tl=158, v=true] died: Juaneton was slain by sCesar_
+[01:28:58] [Async Chat Thread - #18/INFO]: [Not Secure] <TheMario_SM> osi
+[01:29:18] [Server thread/INFO]: TheMario_SM issued server command: /home
+[01:29:23] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport hola
+[01:29:26] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport hola
+[01:29:26] [Async Chat Thread - #18/INFO]: [Not Secure] <TheMario_SM> e
+[01:29:28] [Async Chat Thread - #18/INFO]: [Not Secure] <TheMario_SM> funciona el tp
+[01:29:31] [Async Chat Thread - #18/INFO]: [Not Secure] <TheMario_SM> rp
+[01:29:33] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport hola
+[01:29:35] [Async Chat Thread - #18/INFO]: [Not Secure] <TheMario_SM> auyidsa
+[01:29:37] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport hola
+[01:29:47] [Async Chat Thread - #18/INFO]: [Not Secure] <sCesar_> por hoy dejo el server, mañana avisen a los chavales que habrá eventacos
+[01:29:49] [Server thread/INFO]: sCesar_ lost connection: Disconnected
+[01:29:49] [Server thread/INFO]: sCesar_ left the game
+[01:29:51] [Async Chat Thread - #18/INFO]: [Not Secure] <TheMario_SM> ya
+[01:29:52] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport hola
+[01:29:53] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport hola
+[01:29:54] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport
+[01:29:57] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport hola
+[01:30:04] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport hola
+[01:30:08] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport hola
+[01:30:22] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport hola
+[01:30:54] [Server thread/INFO]: [Not Secure] [Server] h
+[01:30:57] [Async Chat Thread - #21/INFO]: [Not Secure] <TheMario_SM> h
+[01:31:42] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ItzzTsp
+[01:31:42] [localSession-7-3/INFO]: [Geyser-Spigot] ItzzTsp (logged in as: ItzzTsp) has connected to the Java server
+[01:31:42] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ItzzTsp joined (UUID: 00000000-0000-0000-0009-01f32f32091d)
+[01:31:42] [Server thread/INFO]: .ItzzTsp joined the game
+[01:31:42] [Server thread/INFO]: .ItzzTsp[/127.0.0.1:0] logged in with entity id 48128 at ([world]1123.0, 60.0, 1240.0)
+[01:31:52] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport hola
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:19] [Server thread/WARN]: .ItzzTsp moved too quickly! -1010.3949600000001,3.0,-326.5638999999999
+[01:32:25] [Server thread/INFO]: TheMario_SM issued server command: /tpa .ItzzTsp
+[01:32:41] [Async Chat Thread - #22/INFO]: [Not Secure] <.ItzzTsp> para que me haces tpw
+[01:32:46] [Async Chat Thread - #22/INFO]: [Not Secure] <.ItzzTsp> estoy en medio del oceano
+[01:32:50] [Async Chat Thread - #22/INFO]: [Not Secure] <.ItzzTsp> sin barco ;skul
+[01:32:53] [Async Chat Thread - #22/INFO]: [Not Secure] <TheMario_SM> a
+[01:32:54] [Async Chat Thread - #22/INFO]: [Not Secure] <TheMario_SM> XD
+[01:32:55] [Server thread/INFO]: TheMario_SM issued server command: /tpa .ItzzTsp
+[01:32:59] [Server thread/INFO]: TheMario_SM issued server command: /tpcancel .ItzzTsp
+[01:33:02] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport hola
+[01:33:04] [Async Chat Thread - #22/INFO]: [Not Secure] <TheMario_SM> tsp
+[01:33:08] [Async Chat Thread - #22/INFO]: [Not Secure] <TheMario_SM> podes volver base?
+[01:33:24] [Server thread/INFO]: .ItzzTsp issued server command: /rp tp test
+[01:33:28] [User Authenticator #5/INFO]: UUID of player aaaguuusss is 5aaefcc7-9215-3022-a662-5bd3c4df8417
+[01:33:29] [Server thread/INFO]: aaaguuusss joined the game
+[01:33:29] [Server thread/INFO]: aaaguuusss[/127.42.209.217:46889] logged in with entity id 48802 at ([world]1123.0, 60.0, 1240.0)
+[01:33:42] [Server thread/INFO]: .ItzzTsp fell from a high place
+[01:33:43] [Async Chat Thread - #22/INFO]: [Not Secure] <aaaguuusss> hola
+[01:33:50] [Server thread/INFO]: .ItzzTsp issued server command: /back
+[01:33:51] [Server thread/WARN]: .ItzzTsp moved wrongly!
+[01:33:55] [Async Chat Thread - #22/INFO]: [Not Secure] <TheMario_SM> hola
+[01:34:02] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport hola
+[01:34:21] [Server thread/WARN]: .ItzzTsp moved wrongly!
+[01:34:58] [Server thread/INFO]: TheMario_SM has made the advancement [A Major Trial Of Strengh]
