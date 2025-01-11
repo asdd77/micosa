@@ -1,8 +1,12 @@
 test:
   name: test
-  lastvisit: 10/01/2025
+  lastvisit: 11/01/2025
   admins: []
-  members: []
+  members:
+  - b8fff16d-5738-3f80-8343-74bf82cd8868@mokuover
+  - 4fbc7bf1-ecc0-3ede-ac20-90acfbd824d1@themario_sm
+  - c14d4cd6-2c95-3e55-8d6a-8785b2b34c07@korire
+  - 8315ffc5-f5d9-308c-a547-dfdeb2f650bf@korite
   leaders:
   - 00000000-0000-0000-0009-01f32f32091d@.ItzzTsp
   priority: 0
@@ -104,59 +108,6 @@ aldeaimrandom:
   candelete: true
   canpurge: true
   tppoint: 379,64,690,0.0,0.0
-PREUBA:
-  name: PREUBA
-  lastvisit: 10/01/2025
-  admins: []
-  members: []
-  leaders:
-  - 4fbc7bf1-ecc0-3ede-ac20-90acfbd824d1@TheMario_SM
-  priority: 0
-  welcome: ''
-  world: world
-  maxX: 342
-  maxZ: 597
-  minX: 340
-  minZ: 595
-  maxY: 320
-  minY: -64
-  value: 0.0
-  flags:
-    can-grow: true
-    leaves-decay: false
-    allow-effects: true
-    door: false
-    teleport: true
-    allow-spawner: false
-    mob-loot: false
-    button: false
-    fire: false
-    flow: true
-    iceform-player: true
-    allow-home: false
-    chest: false
-    iceform-world: true
-    smart-door: true
-    fishing: false
-    use-potions: true
-    lever: false
-    pvp: false
-    spawn-animals: true
-    passives: false
-    press-plate: false
-    minecart: false
-    ender-chest: false
-    build: false
-    allow-fly: true
-    gravity: true
-    flow-damage: false
-    spawn-monsters: true
-    allow-potions: true
-    block-transform: true
-    redstone: false
-  candelete: true
-  canpurge: true
-  tppoint: ''
 Eventacos:
   name: Eventacos
   lastvisit: 10/01/2025
@@ -265,9 +216,12 @@ vacasagust:
   tppoint: ''
 omero:
   name: omero
-  lastvisit: 10/01/2025
+  lastvisit: 11/01/2025
   admins: []
-  members: []
+  members:
+  - 8315ffc5-f5d9-308c-a547-dfdeb2f650bf@korite
+  - 4fbc7bf1-ecc0-3ede-ac20-90acfbd824d1@themario_sm
+  - b8fff16d-5738-3f80-8343-74bf82cd8868@mokuover
   leaders:
   - 00000000-0000-0000-0009-01f32f32091d@.ItzzTsp
   priority: 0
@@ -369,6 +323,59 @@ aldea:
   candelete: true
   canpurge: true
   tppoint: 133,71,1319,0.0,0.0
+zona_de_espera:
+  name: zona_de_espera
+  lastvisit: 11/01/2025
+  admins: []
+  members: []
+  leaders:
+  - 7e6fff1d-74ad-3b02-ab79-6e5c7f4b54ba@sCesar_
+  priority: 0
+  welcome: ''
+  world: world
+  maxX: 1133
+  maxZ: 1243
+  minX: 1127
+  minZ: 1239
+  maxY: 320
+  minY: -64
+  value: 0.0
+  flags:
+    can-grow: true
+    leaves-decay: false
+    allow-effects: true
+    door: false
+    teleport: true
+    allow-spawner: false
+    mob-loot: false
+    button: false
+    fire: false
+    flow: true
+    iceform-player: true
+    allow-home: false
+    chest: false
+    iceform-world: true
+    smart-door: true
+    fishing: false
+    use-potions: true
+    lever: false
+    pvp: false
+    spawn-animals: true
+    passives: false
+    press-plate: false
+    minecart: false
+    ender-chest: false
+    build: false
+    allow-fly: true
+    gravity: true
+    flow-damage: false
+    spawn-monsters: true
+    allow-potions: true
+    block-transform: true
+    redstone: false
+  candelete: true
+  canpurge: true
+  tppoint: ''
 home:
   name: home
   lastvisit: 09/01/2025
