@@ -2627,3 +2627,38 @@ java.lang.NullPointerException: Cannot invoke "org.geysermc.geyser.inventory.Inv
 [01:55:20] [Server thread/INFO]: TheMario_SM issued server command: /msg .ItzzTsp 563 79 1697
 [01:55:21] [Async Chat Thread - #26/INFO]: [Not Secure] <.ItzzTsp> juego se me cierra todo
 [01:55:28] [Server thread/INFO]: There are 4 of a max of 20 players online: aaaguuusss, TheMario_SM, .Ferpedo1leiva, .ItzzTsp
+[01:55:35] [Async Chat Thread - #26/INFO]: [Not Secure] <.ItzzTsp> luego*
+[01:55:46] [Async Chat Thread - #27/INFO]: [Not Secure] <.ItzzTsp> ia boid
+[01:58:47] [Server thread/INFO]: .Ferpedo1leiva was slain by Cave Spider
+[01:58:54] [Server thread/INFO]: .Ferpedo1leiva issued server command: /BACK
+[01:58:59] [Server thread/INFO]: .Ferpedo1leiva issued server command: /back
+[01:58:59] [Server thread/WARN]: .Ferpedo1leiva moved too quickly! -57.25390000000016,-74.3201,-297.9462299999999
+[01:58:59] [Server thread/WARN]: .Ferpedo1leiva moved too quickly! -57.25390000000016,-74.3201,-297.9462299999999
+[01:58:59] [Server thread/WARN]: .Ferpedo1leiva moved too quickly! -57.25390000000016,-74.3201,-297.9462299999999
+[01:58:59] [Server thread/WARN]: .Ferpedo1leiva moved too quickly! -57.25390000000016,-74.3201,-297.9462299999999
+[01:58:59] [Server thread/WARN]: .Ferpedo1leiva moved too quickly! -57.25390000000016,-74.3201,-297.9462299999999
+[01:58:59] [Server thread/WARN]: .Ferpedo1leiva moved too quickly! -57.25390000000016,-74.3201,-297.9462299999999
+[01:58:59] [Server thread/WARN]: .Ferpedo1leiva moved too quickly! -57.25390000000016,-74.3201,-297.9462299999999
+[01:58:59] [Server thread/WARN]: .Ferpedo1leiva moved too quickly! -57.25390000000016,-74.3201,-297.9462299999999
+[01:58:59] [Server thread/WARN]: .Ferpedo1leiva moved too quickly! -57.25390000000016,-74.3201,-297.9462299999999
+[01:58:59] [Server thread/WARN]: .Ferpedo1leiva moved too quickly! -57.25390000000016,-74.3201,-297.9462299999999
+[01:58:59] [Server thread/WARN]: .Ferpedo1leiva moved too quickly! -57.25390000000016,-74.3201,-297.9462299999999
+[01:58:59] [Server thread/WARN]: .Ferpedo1leiva moved too quickly! -57.25390000000016,-74.3201,-297.9462299999999
+[01:58:59] [Server thread/WARN]: .Ferpedo1leiva moved too quickly! -57.25390000000016,-74.3201,-297.9462299999999
+[01:58:59] [Server thread/WARN]: .Ferpedo1leiva moved too quickly! -57.25390000000016,-74.3201,-297.9462299999999
+[01:58:59] [Server thread/WARN]: .Ferpedo1leiva moved too quickly! -57.25390000000016,-74.3201,-297.9462299999999
+[01:58:59] [Server thread/WARN]: .Ferpedo1leiva moved too quickly! -57.25390000000016,-74.3201,-297.9462299999999
+[01:58:59] [Server thread/WARN]: .Ferpedo1leiva moved too quickly! -57.25390000000016,-74.3201,-297.9462299999999
+[01:59:34] [Async Chat Thread - #28/INFO]: [Not Secure] <.ItzzTsp> acabo de ver un meteorito cayendo o wue mierd
+[01:59:38] [Server thread/INFO]: .Ferpedo1leiva has made the advancement [Under Lock and Key]
+[01:59:44] [Server thread/INFO]: .Ferpedo1leiva has made the advancement [Cover Me with Diamonds]
+[02:00:05] [Server thread/INFO]: There are 4 of a max of 20 players online: aaaguuusss, TheMario_SM, .ItzzTsp, .Ferpedo1leiva
+[02:00:16] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport hola
+[02:00:20] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport hola
+[02:00:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=203, y=48, z=159}
+[02:00:34] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport hola
+[02:02:07] [Server thread/INFO]: .ItzzTsp issued server command: /spawn
+[02:02:31] [Server thread/WARN]: .ItzzTsp moved wrongly!
+[02:04:33] [Server thread/WARN]: .Ferpedo1leiva moved wrongly!
+[02:05:26] [Async Chat Thread - #30/INFO]: [Not Secure] <TheMario_SM> recoletando madera como exclavo
+[02:05:26] [Async Chat Thread - #30/INFO]: [Not Secure] <TheMario_SM> !!!
