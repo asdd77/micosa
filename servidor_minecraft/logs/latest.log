@@ -2662,3 +2662,88 @@ java.lang.NullPointerException: Cannot invoke "org.geysermc.geyser.inventory.Inv
 [02:04:33] [Server thread/WARN]: .Ferpedo1leiva moved wrongly!
 [02:05:26] [Async Chat Thread - #30/INFO]: [Not Secure] <TheMario_SM> recoletando madera como exclavo
 [02:05:26] [Async Chat Thread - #30/INFO]: [Not Secure] <TheMario_SM> !!!
+[02:06:28] [Server thread/WARN]: .ItzzTsp moved wrongly!
+[02:06:54] [Server thread/INFO]: There are 4 of a max of 20 players online: aaaguuusss, TheMario_SM, .ItzzTsp, .Ferpedo1leiva
+[02:07:30] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: e992606b-b70a-4dfc-bcd4-33fe69f7fd67, mapped to Chicken['Chicken'/66375, uuid='e992606b-b70a-4dfc-bcd4-33fe69f7fd67', l='ServerLevel[world]', x=1309.56, y=63.00, z=994.15, cpos=[81, 62], tl=36708, v=true], can't add Chicken['Chicken'/66427, uuid='e992606b-b70a-4dfc-bcd4-33fe69f7fd67', l='ServerLevel[world]', x=1312.58, y=64.00, z=991.47, cpos=[82, 61], tl=39813, v=false]
+[02:07:32] [Async Chat Thread - #32/INFO]: [Not Secure] <.ItzzTsp> intacta esta la aldea
+[02:07:35] [Async Chat Thread - #32/INFO]: [Not Secure] <TheMario_SM> !!!
+[02:07:37] [Async Chat Thread - #32/INFO]: [Not Secure] <.ItzzTsp> literalmente no fue nadie
+[02:07:43] [Async Chat Thread - #32/INFO]: [Not Secure] <.ItzzTsp> las mierdas que el narco deopeo syer
+[02:07:47] [Async Chat Thread - #32/INFO]: [Not Secure] <.ItzzTsp> siguen aquí
+[02:07:50] [Async Chat Thread - #32/INFO]: [Not Secure] <.ItzzTsp> XDDDDDDDDDD
+[02:07:51] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 79534817-461e-44bf-9363-96391faa778a, mapped to Armadillo['Armadillo'/66585, uuid='79534817-461e-44bf-9363-96391faa778a', l='ServerLevel[world]', x=1351.48, y=67.00, z=1052.52, cpos=[84, 65], tl=22937, v=true], can't add Armadillo['Armadillo'/66674, uuid='79534817-461e-44bf-9363-96391faa778a', l='ServerLevel[world]', x=1360.01, y=68.00, z=1041.51, cpos=[85, 65], tl=23470, v=false]
+[02:07:54] [Async Chat Thread - #32/INFO]: [Not Secure] <TheMario_SM> q
+[02:07:56] [Async Chat Thread - #32/INFO]: [Not Secure] <TheMario_SM> q cosa
+[02:08:36] [Async Chat Thread - #32/INFO]: [Not Secure] <.ItzzTsp> voy s meter un rp
+[02:08:41] [Async Chat Thread - #32/INFO]: [Not Secure] <TheMario_SM> tsp ve quitando el rp de tu base
+[02:08:42] [Async Chat Thread - #32/INFO]: [Not Secure] <TheMario_SM> xd
+[02:08:46] [Async Chat Thread - #32/INFO]: [Not Secure] <TheMario_SM> hare un gran rp
+[02:09:49] [Async Chat Thread - #34/INFO]: [Not Secure] <TheMario_SM> el lorax estubiera decepcionado de mi
+[02:10:05] [Server thread/INFO]: Sign Spy - Location: x: 580, y: 77, z: 1719, world: world
+[02:10:05] [Server thread/INFO]: Player: .ItzzTsp
+[02:10:05] [Server thread/INFO]: Lines - 1: [RP] - 2: aldeatcp
+[02:10:05] [Server thread/INFO]: Lines - 3:  - 4: 
+[02:10:27] [Server thread/INFO]: Sign Spy - Location: x: 580, y: 77, z: 1719, world: world
+[02:10:27] [Server thread/INFO]: Player: .ItzzTsp
+[02:10:27] [Server thread/INFO]: Lines - 1: [RP] - 2: aldea tcp
+[02:10:27] [Server thread/INFO]: Lines - 3:  - 4: 
+[02:10:54] [Server thread/INFO]: Sign Spy - Location: x: 580, y: 77, z: 1719, world: world
+[02:10:54] [Server thread/INFO]: Player: .ItzzTsp
+[02:10:54] [Server thread/INFO]: Lines - 1: [RP] - 2: aldea tcp
+[02:10:54] [Server thread/INFO]: Lines - 3:  - 4: 
+[02:11:49] [Server thread/INFO]: Sign Spy - Location: x: 580, y: 77, z: 1719, world: world
+[02:11:49] [Server thread/INFO]: Player: .ItzzTsp
+[02:11:49] [Server thread/INFO]: Lines - 1: [RP] - 2: tcp
+[02:11:49] [Server thread/INFO]: Lines - 3:  - 4: 
+[02:11:59] [Server thread/INFO]: There are 4 of a max of 20 players online: aaaguuusss, TheMario_SM, .ItzzTsp, .Ferpedo1leiva
+[02:12:59] [Async Chat Thread - #36/INFO]: [Not Secure] <TheMario_SM> man nose si la madera q recolecto esta bien
+[02:13:01] [Async Chat Thread - #36/INFO]: [Not Secure] <TheMario_SM> si no es asi
+[02:13:03] [Async Chat Thread - #36/INFO]: [Not Secure] <TheMario_SM> me pego un tiro
+[02:13:08] [Server thread/INFO]: .ItzzTsp issued server command: /rp tp tcp
+[02:13:41] [Server thread/WARN]: .Ferpedo1leiva moved wrongly!
+[02:13:49] [Server thread/WARN]: .Ferpedo1leiva moved wrongly!
+[02:13:58] [Server thread/INFO]: .ItzzTsp issued server command: /rp tp test
+[02:14:28] [Server thread/INFO]: aaaguuusss issued server command: /rp delete
+[02:14:31] [Server thread/INFO]: aaaguuusss issued server command: /rp yes
+[02:15:10] [Server thread/INFO]: Sign Spy - Location: x: 1489, y: 94, z: 1600, world: world
+[02:15:10] [Server thread/INFO]: Player: aaaguuusss
+[02:15:10] [Server thread/INFO]: Lines - 1: [rp] - 2: aldeagoty
+[02:15:10] [Server thread/INFO]: Lines - 3:  - 4: 
+[02:15:27] [Async Chat Thread - #38/INFO]: [Not Secure] <.ItzzTsp> narco tienes libros
+[02:15:33] [Async Chat Thread - #38/INFO]: [Not Secure] <TheMario_SM> todo lo gsate
+[02:15:33] [Async Chat Thread - #38/INFO]: [Not Secure] <TheMario_SM> XD
+[02:15:41] [Async Chat Thread - #38/INFO]: [Not Secure] <.ItzzTsp> piedra de afilar
+[02:15:44] [Async Chat Thread - #38/INFO]: [Not Secure] <TheMario_SM> A NO
+[02:15:45] [Async Chat Thread - #38/INFO]: [Not Secure] <TheMario_SM> si tengo 2
+[02:15:46] [Async Chat Thread - #38/INFO]: [Not Secure] <TheMario_SM> esperame
+[02:16:13] [Server thread/INFO]: aaaguuusss issued server command: /rp settp
+[02:16:19] [Server thread/INFO]: Sign Spy - Location: x: 1504, y: 87, z: 1602, world: world
+[02:16:19] [Server thread/INFO]: Player: aaaguuusss
+[02:16:19] [Server thread/INFO]: Lines - 1: [RP]: Done. - 2: aldeagoty
+[02:16:19] [Server thread/INFO]: Lines - 3:  - 4: 
+[02:17:31] [Async Chat Thread - #40/INFO]: [Not Secure] <.ItzzTsp> necesito directamente una libreria
+[02:17:41] [Async Chat Thread - #40/INFO]: [Not Secure] <.ItzzTsp> un solo bloque
+[02:17:49] [Async Chat Thread - #40/INFO]: [Not Secure] <.ItzzTsp> narco tienes corres
+[02:17:52] [Async Chat Thread - #40/INFO]: [Not Secure] <.ItzzTsp> correa
+[02:17:56] [Async Chat Thread - #40/INFO]: [Not Secure] <TheMario_SM> no
+[02:17:56] [Async Chat Thread - #40/INFO]: [Not Secure] <TheMario_SM> XD
+[02:18:19] [Async Chat Thread - #40/INFO]: [Not Secure] <.ItzzTsp> vuela alto proyectos
+[02:18:19] [Server thread/INFO]: .Ferpedo1leiva has made the advancement [Take Aim]
+[02:19:05] [Server thread/WARN]: .Ferpedo1leiva moved wrongly!
+[02:19:12] [Async Chat Thread - #40/INFO]: [Not Secure] <.ItzzTsp> me voie
+[02:19:15] [Async Chat Thread - #40/INFO]: [Not Secure] <.ItzzTsp> void
+[02:19:30] [Async Chat Thread - #40/INFO]: [Not Secure] <TheMario_SM> yo me quedare hasta q cierre
+[02:19:30] [Async Chat Thread - #40/INFO]: [Not Secure] <TheMario_SM> :v
+[02:19:48] [Server thread/WARN]: .Ferpedo1leiva moved wrongly!
+[02:19:51] [Server thread/WARN]: .Ferpedo1leiva moved wrongly!
+[02:19:54] [Server thread/WARN]: .Ferpedo1leiva moved wrongly!
+[02:20:13] [Async Chat Thread - #40/INFO]: [Not Secure] <.ItzzTsp> yo no tengo bateria
+[02:20:18] [Server thread/INFO]: .ItzzTsp issued server command: /rp tp tcp
+[02:20:26] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .ItzzTsp disconnected
+[02:20:26] [localSession-7-3/INFO]: [Geyser-Spigot] ItzzTsp has disconnected from the Java server because of Bedrock client disconnected
+[02:20:26] [Server thread/INFO]: .ItzzTsp lost connection: Disconnected
+[02:20:26] [Server thread/INFO]: .ItzzTsp left the game
+[02:21:14] [Server thread/WARN]: .Ferpedo1leiva moved wrongly!
+[02:21:17] [Server thread/WARN]: .Ferpedo1leiva moved wrongly!
+[02:23:37] [Server thread/INFO]: ☀ [ ¡Alerta Cosmica! ] Un Meteorito Desconocido a caído en X:-411 Z:186, ¿Que podria tener?
+[02:25:25] [Server thread/INFO]: TheMario_SM issued server command: /rp teleport hola
